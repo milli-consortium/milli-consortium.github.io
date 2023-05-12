@@ -1,0 +1,59 @@
+---
+layout: body
+---
+
+  <article class="post page post-full">
+    <header class="post-header inner-md">
+      <h1 class="post-title">{{ page.title }}</h1>
+      {% assign subtitle_is_not_empty = page.subtitle | is_not_empty %}
+      {% if subtitle_is_not_empty %}
+      <div class="post-subtitle">
+        {{ page.subtitle }}
+      </div><!-- .post-subtitle -->
+      {% endif %}
+    </header><!-- .post-header -->
+    {% assign img_path_is_not_empty = page.img_path | is_not_empty %}
+    {% if img_path_is_not_empty %}
+    <div class="post-thumbnail">
+      <img class="thumbnail" src="{{ page.img_path | relative_url }}" alt="{{ page.title }}" />
+    </div>
+    {% endif %}
+    <div class="post-content inner-md">
+      {{ content }}
+    </div><!-- .post-content -->
+    
+    <div class="post-feed">
+    {% assign display_posts = '/posts' | get_pages | where: 'category', 'iaw2020' | sort: 'date'  | reverse %}
+    {% for post in display_posts %}
+    <article class="post post-card">
+      <div class="post-card-inside">
+        {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
+        {% if thumb_img_path_is_not_empty %}
+        <a class="post-card-thumbnail" href="{{ post.url | relative_url }}">
+          <img class="thumbnail" src="{{ post.thumb_img_path | relative_url }}" alt="{{ post.title }}" />
+        </a>
+        {% endif %}
+        <div class="post-card-content">
+          <header class="post-header">
+            <div class="post-meta">
+              <time class="published"
+              datetime="{{ post.date | date: '%Y-%m-%d %H:%M' }}">{{ post.date | date: '%B %d, %Y' }}</time>
+            </div>
+            <h2 class="post-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h2>
+          </header><!-- .post-header -->
+          <div class="post-excerpt">
+            {% assign excerpt_is_not_empty = post.excerpt | is_not_empty %}
+            {% if excerpt_is_not_empty %}
+            <p>{{ post.excerpt }}</p>
+            {% endif %}
+            <p class="read-more">
+              <a class="button button-secondary" href="{{ post.url | relative_url }}">Read more</a>
+            </p>
+          </div><!-- .post-excerpt -->
+        </div><!-- .post-card-content -->
+      </div><!-- .post-card-inside -->
+    </article><!-- .post -->
+    {% endfor %}
+  </div><!-- .post-feed -->
+
+  </article><!-- .post -->

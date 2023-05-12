@@ -1,0 +1,56 @@
+<header id="masthead" class="site-header outer">
+  <div class="inner">
+    <div class="site-header-inside">
+
+      <div class="site-branding">
+        {% assign logo_img_is_not_empty = site.header.logo_img | is_not_empty %}
+        {% if logo_img_is_not_empty %}
+        <p class="site-logo">
+          <a href='{{ '/' | relative_url }}'><img src="{{ site.header.logo_img | relative_url }}"
+              alt="{{ site.header.title }} Logo" /></a>
+        </p>
+        {% endif %}
+        {% if page.layout == 'home' %}
+        <h1 class="site-title"><a href='{{ '/' | relative_url }}'>{{ site.header.title }}</a></h1>
+        {% else %}
+        <p class="site-title"><a href='{{ '/' | relative_url }}'>{{ site.header.title }}</a></p>
+        {% endif %}
+      </div><!-- .site-branding -->
+
+      {% assign has_nav_is_not_empty = site.header.has_nav | is_not_empty %}
+      {% if has_nav_is_not_empty %}
+      <button id="menu-open" class="menu-toggle"><span class="screen-reader-text">Menu</span><span class="icon-menu"
+        aria-hidden="true"></span></button>
+      <nav id="main-navigation" class="site-nav" aria-label="Main Navigation">
+        <div class="site-nav-inside">
+          <button id="menu-close" class="menu-toggle"><span class="screen-reader-text">Menu</span><span class="icon-close"
+              aria-hidden="true"></span></button>
+          <ul class="menu">
+            {% for action in site.header.nav_links %}
+            <li class="menu-item 
+            {% if page.url == action.url %} current-menu-item{% endif %} 
+            {% if action.type != 'link' and action.type != 'parent' %} menu-button{% endif %}
+            {% if action.type == 'parent' %} parent-menu {% endif %}
+            {% if action.status == 'active' %} active{% endif %}">
+              
+            {% include action_link.html action=action %}
+              
+            <div class="sub-menu">
+              
+              {% for entry in action.sub_nav_links %}
+                
+                {% include sub_menu_link.html entry=action %}
+
+              {% endfor %}
+            
+            </div>
+            </li>
+            {% endfor %}
+          </ul><!-- .menu -->
+        </div><!-- .site-nav-inside -->
+      </nav><!-- .site-navigation -->
+      {% endif %}
+
+    </div><!-- .site-header-inside -->
+  </div><!-- .inner -->
+</header><!-- .site-header -->

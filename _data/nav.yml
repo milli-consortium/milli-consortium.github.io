@@ -1,0 +1,16 @@
+nav_list:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: IAW2023
+    url: /iaw2023/
+  - title: Past Sessions
+    subfolderitems:
+    - page: IAW2020
+      url: /iaw2020/
+    - page: IAW2021
+      url: /iaw2021/
+    - page: IAW2022
+      url: /iaw2022/
+  

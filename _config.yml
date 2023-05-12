@@ -1,0 +1,102 @@
+title: Milli
+domain: milli-consortium.github.io
+url: https://milli-consortium.github.io
+repository: milli-consortium.github.io
+baseurl: /
+permalink: '/:title/'
+collections:
+  posts:
+    permalink: '/posts/:title/'
+description: Milli is a consortium of individuals and communities interested in the nurturing of archives. Archives enable diverse stories.
+layout_style: grid
+palette: green
+header:
+  title: Milli Archives Discussion
+  logo_img: images/logo.png
+  has_nav: true
+  nav_links:
+    - label: Home
+      url: /
+      type: link
+    - label: About
+      url: /about/
+      type: link
+    - label: Contact
+      url: /contact/
+      type: link
+    - label: Join Us
+      url: /join-us/
+      type: link
+    - label: IAW2023
+      url: /iaw2023/
+      type: link
+    - label: Past Sessions
+      type: parent
+      url: /#/
+      sub_nav_links:
+      - label: IAW2020
+        url: /iaw2020/
+        type: link
+      - label: IAW2021
+        url: /iaw2021/
+        type: link
+        status: inactive  
+      - label: IAW2022
+        url: /iaw2022/
+        type: link 
+    
+    
+footer:
+  content: '&copy; All rights reserved.'
+  links:
+    - label: Made with ❤️
+      url: 'https://janastu.org'
+      type: link
+      new_window: true
+  has_social: true
+  social_links:
+    - label: Twitter
+      url: 'https://twitter.com/ArchivesMilli/'
+      type: icon
+      icon_class: fa-twitter
+      new_window: true
+    - label: Instagram
+      url: 'https://www.instagram.com/milli.link/'
+      type: icon
+      icon_class: fa-instagram
+      new_window: true
+    - label: GitHub
+      url: 'https://github.com/milli-consortium/'
+      type: icon
+      icon_class: fa-github
+      new_window: true
+    - label: FaceBook
+      url: 'https://www.facebook.com/Milli-Archives-Consortium-114463243629922/'
+      type: icon
+      icon_class: fa-facebook
+      new_window: true
+  has_subscribe: true
+  subscribe_title: Subscribe for new updates
+  subscribe_content: >-
+    Subscribe to my email newsletter to receive useful articles and special
+    offers. This monthly email is sent out on the first of every month.
+sass:
+  indentWidth: 4
+  style: nested
+  precision: 10
+plugins:
+  - jekyll-menus
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - ssg-build.sh
+  - LICENSE.md
+  - README.md
+  - netlify.toml
+  - stackbit-build.sh
+  - stackbit-pull.js

@@ -1,0 +1,8 @@
+{% assign entry = include.entry %}
+<a class="sub-menu-item {% if action.type != 'link' and action.type !='parent' %} button{% endif %}" href="{{ entry.url | relative_url }}"{% assign new_window_is_not_empty = entry.new_window | is_not_empty %}{% if new_window_is_not_empty %} target="_blank" rel="noopener"{% endif %}>
+  {% if entry.type == 'icon' and entry.icon_class %}
+  <span class="icon fab {{ entry.icon_class }}" aria-hidden="true"></span><span class="screen-reader-text">{{ entry.label }}</span>
+  {% else %}
+  {{ entry.label }}
+  {% endif %}
+</a>

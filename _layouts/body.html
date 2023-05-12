@@ -1,0 +1,19 @@
+---
+layout: base
+---
+
+  <div id="page" class="site layout-{{ site.layout_style }} palette-{{ site.palette }}">
+
+    {% include header.html %}
+
+    <div id="content" class="site-content outer">
+      <main id="main" class="site-main inner">
+
+        {{ content }}
+
+      </main><!-- .site-main -->
+    </div><!-- .site-content -->
+
+    {% include footer.html %}
+
+  </div><!-- .site -->
