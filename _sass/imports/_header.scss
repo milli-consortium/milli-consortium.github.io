@@ -68,28 +68,18 @@
 
 .sub-menu {
 
+  // display: none;
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
   // gap: 2rem;
   justify-content: space-between;
   z-index: 99999;
-  // visibility: collapse; opacity: 0;
+  visibility: collapse; opacity: 1;
   // visibility: visible;  opacity: 1;
+  overflow: visible;
 
 }
-
-// .sub-menu:focus {
-
-//   display: flex;
-//   flex-direction: column;
-//   // gap: 2rem;
-//   justify-content: space-between;
-  
-//   // visibility: collapse; opacity: 0;
-//   visibility: visible;  opacity: 1;
-
-// }
-
 
 .sub-menu-item { 
 
@@ -111,6 +101,7 @@
 .parent-menu > .parent-menu-item:focus +.sub-menu .sub-menu-item {
 
   display: block;
+  // display: flex;
   z-index: 99999;
   visibility: visible;
   opacity: 1;

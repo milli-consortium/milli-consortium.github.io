@@ -777,8 +777,12 @@ img {
 .sub-menu {
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
   justify-content: space-between;
-  z-index: 99999; }
+  z-index: 99999;
+  visibility: collapse;
+  opacity: 1;
+  overflow: visible; }
 
 .sub-menu-item {
   position: relative;

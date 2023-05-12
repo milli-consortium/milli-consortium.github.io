@@ -21,18 +21,13 @@ header:
     - label: About
       url: /about/
       type: link
-    - label: Contact
-      url: /contact/
-      type: link
-    - label: Join Us
-      url: /join-us/
-      type: link
+    
     - label: IAW2023
       url: /iaw2023/
       type: link
     - label: Past Sessions
-      type: parent
-      url: /#/
+      type: link
+      url: /past-sessions/
       sub_nav_links:
       - label: IAW2020
         url: /iaw2020/
@@ -43,8 +38,14 @@ header:
         status: inactive  
       - label: IAW2022
         url: /iaw2022/
-        type: link 
-    
+        type: link
+         
+    - label: Contact
+      url: /contact/
+      type: link
+    - label: Join Us
+      url: /join-us/
+      type: link  
     
 footer:
   content: '&copy; All rights reserved.'
