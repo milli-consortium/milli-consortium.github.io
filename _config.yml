@@ -22,9 +22,9 @@ header:
       url: /about/
       type: link
     
-    - label: IAW2023
-      url: /iaw2023/
-      type: link
+    # - label: IAW2023
+    #   url: /iaw2023/
+    #   type: link
     - label: Milli Sessions
       type: link
       url: /milli-sessions/
