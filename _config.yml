@@ -25,7 +25,7 @@ header:
     - label: IAW2023
       url: /iaw2023/
       type: link
-    - label: Past Sessions
+    - label: Milli Sessions
       type: link
       url: /past-sessions/
       sub_nav_links:
