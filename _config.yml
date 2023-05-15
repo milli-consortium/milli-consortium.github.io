@@ -12,7 +12,7 @@ layout_style: grid
 palette: green
 header:
   title: Milli Archives Discussion
-  logo_img: images/logo.png
+  logo_img: images/logo.webp
   has_nav: true
   nav_links:
     - label: Home
