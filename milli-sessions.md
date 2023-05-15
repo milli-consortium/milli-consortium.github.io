@@ -1,5 +1,5 @@
 ---
-title: Past Sessions
+title: Milli Sessions
 subtitle: 
 img_path: 
 layout: page

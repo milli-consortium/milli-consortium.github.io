@@ -27,7 +27,7 @@ header:
       type: link
     - label: Milli Sessions
       type: link
-      url: /past-sessions/
+      url: /milli-sessions/
       sub_nav_links:
       - label: IAW2020
         url: /iaw2020/
