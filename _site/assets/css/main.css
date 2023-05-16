@@ -775,7 +775,7 @@ img {
   color: #8C4673; }
 
 .sub-menu {
-  display: flex;
+  display: none;
   flex-direction: column;
   flex-wrap: wrap;
   justify-content: space-between;
