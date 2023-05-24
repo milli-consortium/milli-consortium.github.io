@@ -5,7 +5,7 @@ img_path:
 layout: page
 ---
 
-## [Milli Sessions 2023](../iaw2023)
+## [Milli Sessions 2023](../sessions2023)
 
 ## [Milli Sessions 2022](../iaw2022) 
 

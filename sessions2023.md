@@ -1,5 +1,5 @@
 ---
-title: Milli Sessions - International Archives Week 2023 | Jun 9
+title: Milli Sessions - International Archives Day 2023 | Jun 9
 subtitle: 
 img_path: 
 layout: page
