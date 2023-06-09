@@ -6,6 +6,13 @@ intro_content: >-
   <br><br>
   
   <a href="https://www.milli.link/sessions2023/">Check out the Milli Sessions 2023 (Jun 9, 2023) Schedule!</a>
+  <br><br>
+
+  Milli is a non-profit company. It relies completely on donations to make its work possible. Please do consider supporting this movement, at any level. 
+  <br><br>
+  <a href="https://bit.ly/milli-support">https://bit.ly/milli-support</a>
+  <br><br>
+
 intro_actions:
   - label: Learn More
     url: /about
