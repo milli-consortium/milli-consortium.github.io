@@ -1,6 +1,6 @@
 ---
 title: About
-subtitle: Milli Consortium
+subtitle: Milli Archives Foundation
 img_path: 
 layout: page
 ---
