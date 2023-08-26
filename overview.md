@@ -10,7 +10,7 @@ layout: page
 
 
 ### Who are we?
-Milli Archives Foundation is a collective of individuals and communities passionate about nurturing archives in South Asia. It is set up as a Section 8 non-profit company (CIN: U91010KA2023NPL172642), with its registered office at WS No.9, Golden Square, No. 403 Eden Park, 20, Vittal Mallya Road, Bangalore - 560 001. Karnataka. India. It also has provisional approval for 12A and 80G tax exemptions under the Income Tax Act, valid up to March 2026.
+Milli Archives Foundation is a collective of individuals and communities passionate about nurturing archives in South Asia. It is set up as a Section 8 non-profit company (CIN: U91010KA2023NPL172642), with its registered office at WS No.9, Golden Square, No. 403 Eden Park, 20, Vittal Mallya Road, Bangalore - 560 001. Karnataka. India. It also has approval for 12A and 80G tax exemptions under the Income Tax Act, valid up to March 2026.
 
 ### What do we do?
 Archives enable diverse stories. This aim guides the work of the collective, the purpose, form and content of an archive, and what environments it could nourish in the future. Milli helps individuals and institutions to build and sustain archives. It facilitates discussions among the community around issues of diversity, archival standards, conservation, physical and digital access, pedagogy, privacy and the development of inclusive description standards. And the open access digital platform that Milli intends to build will allow the public to find, connect, describe and share archival material and stories. It is a unique space not just in India, but anywhere in the world.
@@ -31,21 +31,21 @@ In January 2023, Milli also launched "Archives, Ethics and the Law in India: A G
 
 As of 2023, due to its wide reach and unique intent in nurturing archives, it is likely there is hardly any significant archival institution in India that is not aware of Milli. Interactions over the Milli Sessions and with participating institutions and individuals gave a clear need for setting up Milli Archives Foundation as a Section 8 non-profit company that can scale the ideas and bring about a systemic transformation in how we build and engage with archives in India.
 
-### How will Milli fulfill its objectives?
+<!-- ### How will Milli fulfill its objectives?
 Milli is set up as a Section 8 company, with two kinds of activities.
 
 • FREE public good services like open source software tools, resource and best practices guidelines for archiving and conservation in India, standards for archives description, law and ethics guidebooks, curriculum and professional training guides. 
 
-• PAID services to build a community, through archival consultancies, memberships and training. This will be a nominal revenue component (< 15 percent of activity) in the first three years, and it will be spun off as a separate consultancy after three years that will help sustain the public service intent of the Milli Archives Collective.
+• PAID services to build a community, through archival consultancies, memberships and training. This will be a nominal revenue component (< 15 percent of activity) in the first three years, and it will be spun off as a separate consultancy after three years that will help sustain the public service intent of the Milli Archives Collective. -->
 
 ### Who is heading Milli?
-Milli’s founding directors are Venkat Srinivasan (Head, Archives at NCBS), Maya Dodd (educator and professor at FLAME University), Jayaprabha Ravindran (Retired Deputy Director, National Archives of India). Director’s profiles are outlined at the end of this document. We also have a core team of 10 professionals from across the country, and a host of students, working together toward clearly defined activities and objectives. 
+Milli’s founding directors are Venkat Srinivasan (Head, Archives at NCBS), Maya Dodd (educator and professor at FLAME University), Jayaprabha Ravindran (Retired Assistant Director, National Archives of India). Director’s profiles are outlined at the end of this document. We also have a core team of 10 professionals from across the country, and a host of students, working together toward clearly defined activities and objectives. 
 
 Some Partner Institutions:
 
 Archives at NCBS, French Institute of Pondicherry, Ashoka Archives, ISI Kolkata, NID Ahmedabad, Keystone Foundation, IISc Archives, IIM Bangalore, Archives and Research Centre for Ethnomusicology – AIIS, QAMRA – NLS Bangalore, OP Jindal Global University Library, WIPRO Archives, IFA Archives, IIT Madras Archives, APU Archives, South Asian Canadian Digital Archive,  have all continued to be part of the initiatives of Milli Archives Foundation. 
 
-### What are some examples of Free-to-Public Deliverables?
+<!-- ### What are some examples of Free-to-Public Deliverables?
 
 *    COLLECT 
 
@@ -92,7 +92,7 @@ Archives at NCBS, French Institute of Pondicherry, Ashoka Archives, ISI Kolkata,
         
         ◦ Develop template to organize mobile booths in cities to record/train oral history interviews from public
         
-        ◦ Development of rotating exhibitions from partner institutions that can be openly used by schools and colleges across India.
+        ◦ Development of rotating exhibitions from partner institutions that can be openly used by schools and colleges across India. -->
 
 ### Where is this going?
 
