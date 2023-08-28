@@ -21,9 +21,6 @@ header:
     - label: About
       url: /about/
       type: link
-    - label: Overview
-      url: /overview/
-      type: link
     - label: Ethics - Law
       url: /ethics-law/
       type: link
