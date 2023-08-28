@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: About
 subtitle:
 img_path: 
 layout: page
