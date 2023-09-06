@@ -4,16 +4,15 @@ img_path:
 layout: page
 ---
 
-## Please stay tuned for future positions.
-## If you'd like to connect with Milli for opportunities or collaborations, email us at hello at milli dot link
+<u>Please stay tuned for future positions.
+If you'd like to connect with Milli for opportunities or collaborations, email us at hello at milli dot link</u>
 
-## Front end developer
-### This position is closed
+# Past Positions
 
+- ## Front end developer 
+#### This position is closed
 The Milli Consortium is a not-for-profit network of individuals and communities interested in the nurturing of archives. Milli helps individuals and institutions to build and sustain archives. It facilitates discussions among the community around issues of diversity, archival standards, conservation, physical and digital access, pedagogy, privacy and the development of inclusive description standards. Ours is a small team of archivists, designers, developers, and semantic web researchers. More here: [About Milli](https://www.milli.link/about/).
-
 #### Call for Front end developer
-
 Applicants should be interested in working on web annotations, semantic frameworks, and archival description. An interest in long term research in these areas or adjoining disciplines will be very helpful. They should be happy in an open source environment that is also dedicated to decentralized networks of information. Some other things we look for:
 
 * Proficient in HTML, CSS, Javascript (jQuery, Backbone, Angular, React, Vue) any frontend framework
@@ -46,7 +45,7 @@ Reference material:
 -----
 
 ## UX Developer / Interaction Design Researcher
-### This position is closed
+#### This position is closed
 The Milli consortium is a not-for-profit network of individuals and
 communities interested in the nurturing of archives. It is looking for a
 UX Developer and an Interaction Design Researcher to join the team.
