@@ -44,7 +44,7 @@ Reference material:
 
 -----
 
-## UX Developer / Interaction Design Researcher
+- ## UX Developer / Interaction Design Researcher
 #### This position is closed
 The Milli consortium is a not-for-profit network of individuals and
 communities interested in the nurturing of archives. It is looking for a
