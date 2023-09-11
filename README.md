@@ -7,11 +7,15 @@
 
 1. clone the repository 
 
-using git
+   using git
 
-```git clone https://github.com/milli-consortium/milli-consortium.github.io.git```
+   ```git clone https://github.com/milli-consortium/milli-consortium.github.io.git```
 
-or using the github cli
+   OR 
+   
+   using the github cli
+
+   ```gh repo clone milli-consortium/milli-consortium.github.io```
 
 2. install ```jekyll``` and ```bundler```
 
@@ -27,10 +31,10 @@ or using the github cli
 
 1. commit all changes to source files on the ```master``` branch
 
-```git checkout master```
+   ```git checkout master```
 
-```git commit -m "commit message"```
+   ```git commit -m "commit message"```
 
-2. commit changes to the website build (located under ```_site``` to the origin/pages subtree)
+2. commit changes to the website build (located under ```_site``` folder to the ```origin/pages``` subtree)
 
-```git subtree push --prefix _site origin pages ```
+   ```git subtree push --prefix _site origin pages ```
