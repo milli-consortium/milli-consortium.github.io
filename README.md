@@ -1,7 +1,7 @@
 ## prerequisites -
 
-1. ruby 3.0
-2. git
+1. ruby3 - https://www.ruby-lang.org/en/downloads
+2. git - https://git-scm.com/downloads
 
 ## steps to build and run the website locally
 
