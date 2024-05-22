@@ -26,7 +26,7 @@ Applicants should be interested in working on web annotations, semantic framewor
 * Great interpersonal and communication skills
 
 Location, hours and compensation:
-Applicant can be based anywhere in the world and operate with a flexible hours schedule. Compensation will be commensurate with experience, but keeping in mind that the consortium is operating out of India.
+Applicant can be based anywhere in the world and operate with a flexible hours schedule. Compensation will be commensurate with experience, but keeping in mind that the consortium is operating out of India...
 
 Reference material:
 
