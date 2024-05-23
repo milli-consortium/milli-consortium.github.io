@@ -6,7 +6,7 @@ layout: page
 ---
 
 
-![](../images/milli-2023-lineup.webp)
+<!-- ![](../images/milli-2023-lineup.webp) -->
 
 
 > Milli Archives Foundation is a collective of individuals and communities interested in the nurturing of archives (https://milli.link/about/)
