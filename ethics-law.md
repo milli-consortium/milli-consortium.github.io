@@ -12,9 +12,9 @@ intro_content: >-
 
   <h5>Supported By</h5>
   <a class="no-border" href="https://archives.ncbs.res.in"><img style = "padding:15px; width:150px;" src="../images/logo_ancbs.webp"></a>
-  <a class="no-border" href="https://www.ica.org"> <img style = "padding:15px; width:150px;" src="../images/logo_ica.webp"></a>
-  <a class="no-border" href="https://www.ncbs.res.in"> <img style = "padding:15px; width:150px;" src="../images/logo_ncbs.webp"></a>
-  <a class="no-border" href="https://www.ncbs.res.in"><img style = "padding:15px; width:100px;" src="../images/logo_maf.webp"></a>
+  <a class="no-border" href="https://ica.org"> <img style = "padding:15px; width:150px;" src="../images/logo_ica.webp"></a>
+  <a class="no-border" href="https://ncbs.res.in"> <img style = "padding:15px; width:150px;" src="../images/logo_ncbs.webp"></a>
+  <a class="no-border" href="https://milli.link"><img style = "padding:15px; width:100px;" src="../images/logo_maf.webp"></a>
 #   <a href="link address"><img src="image destination"></a>
 #   <a href="link address"><img src="image destination"></a>
 #   <a href="link address"><img src="image destination"></a>
