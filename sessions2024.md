@@ -6,7 +6,7 @@ layout: page
 ---
 
 
-<!-- ![](../images/milli-2023-lineup.webp) -->
+![](../images/milli-2024-lineup.webp)
 
 
 > Milli Archives Foundation is a collective of individuals and communities interested in the nurturing of archives (https://milli.link/about/)
@@ -36,7 +36,7 @@ layout: page
 
 ---
 
-* **5:20 PM : The right to be (in)visible - Reflections from 40 years of archiving music**
+* **5:20 PM : Who's Right? Whose Rights? - Reflections on Ethics in the Archival Multiverse**
     * Shubha Chaudhuri, Archives and Research Center for Ethnomusicology (ARCE), American Institute of Indian Studies, https://www.indiastudies.org/ethnomusicology/
 
 ---
