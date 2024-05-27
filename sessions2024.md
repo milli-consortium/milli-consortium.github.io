@@ -1,5 +1,5 @@
 ---
-title: Milli Sessions - International Archives Week 2024 | Friday, Jun 7, 2024
+title: Milli Sessions - International Archives Week 2024 | Jun 7
 subtitle: 
 img_path: 
 layout: page
@@ -26,13 +26,12 @@ layout: page
 
 ---
 
-* **5:00PM : Introductions, overview of Milli governance and activities, 2024-25**
-  * Maya Dodd, Jaya Ravindran, Venkat Srinivasan
+* **5:00PM : Introductions, overview of Milli's activities, 2024-25**
+
 
 ---
 
 * **5:10 PM : LAUNCH! New cheatsheet for the Archives, Ethics and Law in India guidebook**
-    * Farah Yameen, in collaboration with Megha Ramachandra and Divij Joshi
 
 ---
 
