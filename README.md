@@ -23,7 +23,7 @@
 
 4. build the website ```bundle exec jekyll build```
    
-   to build and serve the website locally ```bundle exec jeykyll serve```
+   to build and serve the website locally ```bundle exec jekyll serve```
    
    the website will be served at [http://127.0.0.1:4000//](http://127.0.0.1:4000//)
 
