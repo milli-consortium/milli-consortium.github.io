@@ -90,10 +90,10 @@ footer:
   subscribe_content: >-
     Subscribe to my email newsletter to receive useful articles and special
     offers. This monthly email is sent out on the first of every month.
-sass:
-  indentWidth: 4
-  style: nested
-  precision: 10
+# sass:
+  # indentWidth: 4
+  # style: nested
+  # precision: 10
 plugins:
   - jekyll-menus
 exclude:
@@ -110,3 +110,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+keep_files: ['CNAME']
