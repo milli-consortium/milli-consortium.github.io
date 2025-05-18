@@ -10,7 +10,7 @@ layout: page
 
 
 ### Who are we?
-Milli Archives Foundation is a collective of individuals and communities passionate about nurturing archives in South Asia. It is set up as a Section 8 non-profit company (CIN: U91010KA2023NPL172642), with its registered office at WS No.9, Golden Square, No. 403 Eden Park, 20, Vittal Mallya Road, Bangalore - 560 001, Karnataka, India. It also has approval for 12A and 80G tax exemptions under the Income Tax Act, valid up to March 2026.
+Milli Archives Foundation is a collective of individuals and communities passionate about nurturing archives in South Asia. It is set up as a Section 8 non-profit company (CIN: U91010KA2023NPL172642), with its registered office at WS No.9, Golden Square, No. 403 Eden Park, 20, Vittal Mallya Road, Bangalore - 560 001, Karnataka, India. It also has approval for 12A and 80G tax exemptions under the Income Tax Act.
 Contact us at:
 <a href="mailto:hello@milli.link">hello@milli.link</a>
 
