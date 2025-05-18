@@ -29,6 +29,8 @@
    
    the website will be served at [http://127.0.0.1:4000//](http://127.0.0.1:4000//)
 
+5. GUI to author the content will be available at [http://127.0.0.1:4000/admin/](http://127.0.0.1:4000/admin/)
+
 ## deploying the website on github-pages
 
 1. commit all changes to source files on the ```master``` branch
