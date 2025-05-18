@@ -17,7 +17,7 @@ Contact us at:
 ### What do we do?
 Archives enable diverse stories. This aim guides the work of the collective, the purpose, form and content of an archive, and what environments it could nourish in the future. Milli helps individuals and institutions to build and sustain archives. It facilitates discussions among the community around issues of diversity, archival standards, conservation, physical and digital access, pedagogy, privacy and the development of inclusive description standards. And the open access digital platform that Milli intends to build will allow the public to find, connect, describe and share archival material and stories. It is a unique space not just in India, but anywhere in the world.
 
-### What are Milli’s objectives?
+## What are Milli’s objectives?
 *   COLLECT, build, preserve and nurture archives and protect endangered collections
 *   RESEARCH and develop public tools and resources for archives
 *   EDUCATE and build capacity, from high school to professional practice
