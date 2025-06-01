@@ -10,28 +10,35 @@ layout: page
 
 
 ### Who are we?
-Milli Archives Foundation is a collective of individuals and communities passionate about nurturing archives in South Asia. It is set up as a Section 8 non-profit company (CIN: U91010KA2023NPL172642), with its registered office at WS No.9, Golden Square, No. 403 Eden Park, 20, Vittal Mallya Road, Bangalore - 560 001, Karnataka, India. It also has approval for 12A and 80G tax exemptions under the Income Tax Act.
+The Milli Archives Foundation is a non-profit network of archives and archivists dedicated to building, nurturing and sustaining archives across India. Our registered office is in Bangalore, India. Scroll down for our organization details, address and tax exemption status. 
 Contact us at:
 <a href="mailto:hello@milli.link">hello@milli.link</a>
 
-### What do we do?
-Archives enable diverse stories. This aim guides the work of the collective, the purpose, form and content of an archive, and what environments it could nourish in the future. Milli helps individuals and institutions to build and sustain archives. It facilitates discussions among the community around issues of diversity, archival standards, conservation, physical and digital access, pedagogy, privacy and the development of inclusive description standards. And the open access digital platform that Milli intends to build will allow the public to find, connect, describe and share archival material and stories. It is a unique space not just in India, but anywhere in the world.
+### Wait, what's an archive?
+Archives preserve, describe and make accessible records of enduring historical value. Archival records shed light on the context and process of our lives, from an old family photo album to a bundle of letters with your mentor, from a recording of a community elder’s memories to a company’s board minutes or a social movement’s banner. An accessible archive drawing on our collective memory enables a diversity of stories for the future.
 
-## What are Milli’s objectives?
-*   COLLECT, build, preserve and nurture archives and protect endangered collections
-*   RESEARCH and develop public tools and resources for archives
-*   EDUCATE and build capacity, from high school to professional practice
-*   ENGAGE the public to reimagine the archives as part of their commons 
+### Why Milli?
+Archives occupy a critical place in society. India needs a forum for archival standards, preservation and conservation guidelines, open access teaching manuals, digital tools to allow the public to find and share archival material, for multiple archives to exchange knowledge, and for the public to see the archive as part of their daily lives. Milli works with individuals, families, organizations and communities toward building, nurturing and sustaining our collective memory and records in the form of accessible archives. Archives need the attention and care they deserve. Memory matters, and Milli is here to help.
+
+### What does Milli do?
+Milli works with individuals, families, organizations and communities toward building, nurturing and sustaining our collective memory and records in the form of accessible archives. It has five areas of work:
+* Guidelines and best practices for archives
+* Open access tools and resources for archives
+* Specialized archival services for tailored needs of archives
+* Engaging the public to reimagine archives as part of their everyday lives.
+* Training and education in archival methods, from school to professional practice
+
+Milli also facilitates discussions around issues of diversity, archival standards, conservation, physical and digital access, pedagogy, privacy and the development of inclusive description standards. The open access digital platform that Milli is building will allow the public to find, connect, describe and share archival material and stories. It is a unique space not just in India, but anywhere in the world.
 
 ### Why does this matter?
-Archives emerge from our collective stories, and they give rise to future intertwined stories. They should be seen as a vibrant core of the physical and digital commons, a place that citizens instinctively reach out to online, or over a weekend visit with their families. But that just doesn’t happen in India. Archives are very difficult to work with due to lack of visibility, unnecessarily strict regulation, and a great deal of apathy from all sides. We need wider awareness, education and engagement, and a strong push toward structured archives along international standards. **Archives need to be examined not just by the fleeting research scholar, but also every member of the public, and also students in secondary or tertiary education, which is perhaps an archives’ biggest untapped potential in India.** We want the community to see – and make – connections between their own lives and the disparate archival records flung across repositories. And through our activities, we intend to foster an environment of archival thinking through education and practice, civic awareness, and broadly, a sense of empathy, seeing a little of us in the other.
+Archives emerge from our collective stories, and they give rise to future intertwined stories. They should be seen as a vibrant core of the physical and digital commons, a place that citizens instinctively reach out to online, or over a weekend visit with their families. But that just doesn’t happen in India. Archives are very difficult to work with due to lack of visibility, unnecessarily strict regulation, and a great deal of apathy from all sides. We need wider awareness, education and engagement, and a strong push toward structured archives along international standards. Archives need to be examined not just by the fleeting research scholar, but also every member of the public, and also students in secondary or tertiary education, which is perhaps an archives’ biggest untapped potential in India. We want the community to see – and make – connections between their own lives and the disparate archival records flung across repositories. Archives enable diverse stories. This aim guides the work of Milli, the purpose, form and content of an archive, and what environments it could nourish in the future. Through our activities, we intend to foster an environment of archival thinking through education and practice, civic awareness, and broadly, a sense of empathy, seeing a little of us in the other.
 
 ### What is the origin of Milli, and what has it done so far?
-The founding of the Milli Archives Foundation was the result of deliberations within ‘Milli’, a collective of individuals and communities who are passionate about archives. Over the last four years, the above mentioned ideas have gathered steam through collaborations and the free-to-public Milli Sessions, with over 1500 registrants, over 400 active participants from across India and other countries, and 40+ partnering institutions. There really has been no equivalent to this in the past, and it is a unique initiative even at a global scale. All material from the Sessions is publicly accessible: [IAW2020](https://www.milli.link/iaw2020) and [IAW2021](https://www.milli.link/iaw2021).
+The founding of the Milli Archives Foundation was the result of deliberations within ‘Milli’, a collective of individuals and communities who are passionate about archives. Over the years, the above mentioned ideas have gathered steam through collaborations and the free-to-public Milli Sessions, with over 1500 registrants, over 400 active participants from across India and other countries, and 40+ partnering institutions. There really has been no equivalent to this in the past, and it is a unique initiative even at a global scale. All material from the Sessions is publicly accessible: [Milli Sessions](https://milli.link/milli-sessions).
 
-In January 2023, Milli also launched "Archives, Ethics and the Law in India: A Guidebook for Archivists in India", in collaboration with the Archives at NCBS. The first draft of this open access guidebook can be reviewed at [ethics-law.archives.ncbs.res.in](https://ethics-law.archives.ncbs.res.in). The project is perhaps one of the first of its kind in India. It brings together issues relating to archives, law, ethics, ownership, access, and privacy. 
+In January 2023, Milli also launched “Archives, Ethics and the Law in India: A Guidebook for Archivists in India”, in collaboration with the Archives at NCBS. The first draft of this open access guidebook can be reviewed at [Archives, Ethics and the Law](https://milli.link/ethics-law). The project is perhaps one of the first of its kind in India. It brings together issues relating to archives, law, ethics, ownership, access, and privacy.
 
-As of 2023, due to its wide reach and unique intent in nurturing archives, it is likely there is hardly any significant archival institution in India that is not aware of Milli. Interactions over the Milli Sessions and with participating institutions and individuals gave a clear need for setting up Milli Archives Foundation as a Section 8 non-profit company that can scale the ideas and bring about a systemic transformation in how we build and engage with archives in India.
+As of 2023, due to its wide reach and unique intent in nurturing archives, it is likely there is hardly any significant archival institution in India that is not aware of Milli. Interactions over the Milli Sessions and with participating institutions and individuals gave a clear need for setting up Milli Archives Foundation as a non-profit entity that can scale the ideas and bring about a systemic transformation in how we build and engage with archives in India.
 
 <!-- ### How will Milli fulfill its objectives?
 Milli is set up as a Section 8 company, with two kinds of activities.
@@ -40,8 +47,17 @@ Milli is set up as a Section 8 company, with two kinds of activities.
 
 • PAID services to build a community, through archival consultancies, memberships and training. This will be a nominal revenue component (< 15 percent of activity) in the first three years, and it will be spun off as a separate consultancy after three years that will help sustain the public service intent of the Milli Archives Collective. -->
 
+### How can I help?
+Thank you for considering! Everything Milli does is for nurturing archives in the country. It is a non-profit foundation, and relies on public support to make its work possible. Please do consider supporting this movement, and help build, nurture and sustain our collective memory through accessible archives.
+
+[Support Milli](https://milli.link/support/)
+
 ### Who is heading Milli?
 Milli’s founding directors are Venkat Srinivasan (Head, Archives at NCBS), Maya Dodd (educator and professor at FLAME University), Jayaprabha Ravindran (Retired Assistant Director, National Archives of India). Director’s profiles are outlined at the end of this document.
+
+### What is the Milli Member Network?
+The member network is a set of archival organizations and archivists who have come together to advise and shape free-to-public archival projects that will benefit all archives in India. Its collective efforts strengthen both individual archives and a network of archives. The network exchanges ideas and shares resources, and their membership supports the basic operations of Milli. All events and project outputs of Milli shall continue to be freely accessible to the public, keeping in line with its intent as a non-profit body that facilitates archival discussion and standards. As of June 2025, the network includes Shubha Chaudhuri (The Archives and Research Center for Ethnomusicology (ARCE), American Institute of Indian Studies), Vrunda Pathare (Godrej Archives) and the following archival organizations: Archive of IIT Madras, Archives at NCBS, Asia Art Archive in India, CEPT Archives, French Institute of Pondicherry, IIM Ahmedabad Archives, IIM Bangalore Library, India Foundation for the Arts Archive, Indian Institute for Human Settlements, Keystone Foundation, OP Jindal Global University, Kirloskar Group Archives, Museum of Art & Photography, NID Archives, Past Perfect, Roja Muthiah Research Library, QAMRA Archival Project at NLSIU, Wipro Archives. 
+
 
 ### What institutions have partnered with Milli in the past?
 This is not an exhaustive list, but here are some archives that have been part of the initiatives or events hosted by Milli: Archives at NCBS, French Institute of Pondicherry, Ashoka Archives, ISI Kolkata, NID Ahmedabad, Keystone Foundation, IISc Archives, IIM Bangalore, Archives and Research Centre for Ethnomusicology – AIIS, QAMRA – NLS Bangalore, OP Jindal Global University Library, WIPRO Archives, IFA Archives, IIT Madras Archives, APU Archives, South Asian Canadian Digital Archive and South Asian American Digital Archive
@@ -54,6 +70,10 @@ Yes! Volunteers for various Milli Sessions include Anjali JR; Aparna Vaidik; Arn
 
 ### Can I be a part of Milli?
 Of course! You can volunteer, collaborate, work on a project with us, or all three! If you are part of an institution/community, organization, family, individual with an archive (or the potential of an archive) that likes the work we have done or have concerns about heritage material and archival records, do send us an email to take things forward: <a href="mailto:hello@milli.link">hello@milli.link</a>
+
+### What are the organization details?
+Milli Archives Foundation is a Section 8 non-profit company (CIN: U91010KA2023NPL172642), with its registered office at Cabin No 32, WS No 6, 102 Eden Park, 20 Vittal Mallya Road, Bangalore - 560 001. Karnataka. India. It has approval for 12A and 80G tax exemptions under the Income Tax Act of India. Contact us at <a href="mailto:hello@milli.link">hello@milli.link</a> if you need additional details.
+
 
 <!-- ### What are some examples of Free-to-Public Deliverables?
 
