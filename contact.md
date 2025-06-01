@@ -1,4 +1,25 @@
 ---
+title: Contact
+subtitle:
+img_path: 
+layout: page
+---
+
+The Milli Archives Foundation is a non-profit network of archives and archivists dedicated to building, nurturing and sustaining archives across India.
+
+Milli Archives Foundation
+Cabin No 32, WS No 6, 102 Eden Park,
+20 Vittal Mallya Road, Bangalore - 560 001.
+Karnataka. India.
+hello@milli.link
+[https://milli.link](https://milli.link)
+
+Legal Status:
+Section 8 non-profit company (CIN: U91010KA2023NPL172642), with 12A and 80G tax exemptions under the Income Tax Act of India.
+
+
+<!-- 
+---
 title: Get in Touch
 img_path: 
 form_id: contactForm
@@ -33,3 +54,6 @@ form_fields:
 submit_label: Send Message
 layout: contact
 ---
+
+
+-->
