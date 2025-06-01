@@ -71,9 +71,6 @@ Yes! Volunteers for various Milli Sessions include Anjali JR; Aparna Vaidik; Arn
 ### Can I be a part of Milli?
 Of course! You can volunteer, collaborate, work on a project with us, or all three! If you are part of an institution/community, organization, family, individual with an archive (or the potential of an archive) that likes the work we have done or have concerns about heritage material and archival records, do send us an email to take things forward: <a href="mailto:hello@milli.link">hello@milli.link</a>
 
-### What are the organization details?
-Milli Archives Foundation is a Section 8 non-profit company (CIN: U91010KA2023NPL172642), with its registered office at Cabin No 32, WS No 6, 102 Eden Park, 20 Vittal Mallya Road, Bangalore - 560 001. Karnataka. India. It has approval for 12A and 80G tax exemptions under the Income Tax Act of India. Contact us at <a href="mailto:hello@milli.link">hello@milli.link</a> if you need additional details.
-
 
 <!-- ### What are some examples of Free-to-Public Deliverables?
 
@@ -140,3 +137,6 @@ Archives emerge from our collective stories, and they give rise to future intert
 ### What does Milli mean?
 
 Milli borrows from the Icelandic ‘á milli’ for ‘between’ or ‘in the midst of’ since it speaks to the way we think of the archives being the in-between space between stories, objects and future stories. Milli is also a way, as in Hindi, to have found something. Milli in Latin hints at a way of thinking about a thousand tiny connections. The name, Milli, came up in ~2017-19, during conversations within the initial Milli Tech team, including Prasoon, Janastu and the Archives at NCBS (Bangalore, India), a public centre for the history of science in contemporary India.
+
+### What are the organization details?
+Milli Archives Foundation is a Section 8 non-profit company (CIN: U91010KA2023NPL172642), with its registered office at Cabin No 32, WS No 6, 102 Eden Park, 20 Vittal Mallya Road, Bangalore - 560 001. Karnataka. India. It has approval for 12A and 80G tax exemptions under the Income Tax Act of India. Contact us at <a href="mailto:hello@milli.link">hello@milli.link</a> if you need additional details.
