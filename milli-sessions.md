@@ -5,6 +5,8 @@ img_path:
 layout: page
 ---
 
+## [Milli Sessions 2025](../sessions2025)
+
 ## [Milli Sessions 2024](../sessions2024)
 
 ## [Milli Sessions 2023](../sessions2023)
