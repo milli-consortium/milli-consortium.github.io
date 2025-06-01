@@ -5,8 +5,25 @@ img_path:
 layout: page
 ---
 
-[**Milli Archives Foundation**](https://www.milli.link) is a collective of individuals and communities passionate about nurturing archives in South Asia.  
+Thank you for considering supporting Milli's work! Everything Milli does is for nurturing archives in the country. It is a non-profit foundation, and relies on public support to make its work possible. Please do consider supporting this movement, and help build, nurture and sustain our collective memory through accessible archives.
 
-It is set up as a Section 8 non-profit company (CIN:U91010KA2023NPL172642), with its registered office at WS No.9, Golden Square, No. 403 Eden Park, 20, Vittal Mallya Road, Bangalore - 560 001. Karnataka. India. It also has approval for 12A and 80G tax exemptions under the Income Tax Act, valid up to March 2026. 
+Please do consider donating to this movement, at any level: [**http://bit.ly/milli-nurture**](http://bit.ly/milli-nurture)
 
-Milli is a non-profit company, set up to support and develop free and publicly accessible material to nurture archives in India. It relies completely on donations to make its work possible. Please do consider supporting this movement, at any level : [**bit.ly/milli-support**](https://bit.ly/milli-support)
+If you are unable to make a financial contribution, and can volunteer expertise, advice or time, we'd love to hear from you! Email us at hello@milli.link
+
+The Milli Archives Foundation is a non-profit network of archives and archivists dedicated to building, nurturing and sustaining archives across India. It is a Section 8 non-profit company with 12A and 80G tax exemptions under the Income Tax Act of India. Contact us at hello@milli.link if you need additional details.
+
+#### **Why Milli?**
+
+Archives occupy a critical place in society. India needs a forum for archival standards, preservation and conservation guidelines, open access teaching manuals, digital tools to allow the public to find and share archival material, for multiple archives to exchange knowledge, and for the public to see the archive as part of their daily lives. Milli works with individuals, families, organizations and communities toward building, nurturing and sustaining our collective memory and records in the form of accessible archives. Archives need the attention and care they deserve. Memory matters, and Milli is here to help.
+
+#### **What does Milli do?**
+
+Milli works with individuals, families, organizations and communities toward building, nurturing and sustaining our collective memory and records in the form of accessible archives. It has five areas of work:
+* Guidelines and best practices for archives
+* Open access tools and resources for archives
+* Specialized archival services for tailored needs of archives
+* Engaging the public to reimagine archives as part of their everyday lives.
+* Training and education in archival methods, from school to professional practice
+
+Milli also facilitates discussions around issues of diversity, archival standards, conservation, physical and digital access, pedagogy, privacy and the development of inclusive description standards. The open access digital platform that Milli is building will allow the public to find, connect, describe and share archival material and stories. It is a unique space not just in India, but anywhere in the world.
