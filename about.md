@@ -11,19 +11,18 @@ layout: page
 
 [![](../images/milli brochure_header.webp)](../files/Brochure_May 2025_f-s.pdf)
 
+Download our brochure for an overview of the Milli Archives Foundation!
+
 ### Who are we?
 The Milli Archives Foundation is a non-profit network of archives and archivists dedicated to building, nurturing and sustaining archives across India. Our registered office is in Bangalore, India. Scroll down for our organization details, address and tax exemption status. 
 Contact us at:
 <a href="mailto:hello@milli.link">hello@milli.link</a>
 
 ### Wait, what's an archive?
-Archives preserve, describe and make accessible records of enduring historical significance. Such archival records offer valuable insights into the context and process of our lives, ranging from an old family photo album and a bundle of letters between a student and their mentor, to oral histories from community elders, minutes of corporate board meetings and banners from social movements. By creating an accessible archive, we can draw from our collective memory and share a diversity of stories for the future.
+Archives preserve, describe and make accessible records of enduring historical significance. Such archival records offer valuable insights into the context and process of our lives, ranging from an old family photo album to a bundle of letters between a student and their mentor, from oral histories from community elders to minutes of corporate board meetings, and from comments in a government ministry’s administrative files to cloth banners from social movements. By creating an accessible archive, we can draw from our collective memory and share a diversity of stories for the future.
 
 ### Why Milli?
 India needs a forum for nurturing archives. This includes archival standards, preservation and conservation guidelines, open access teaching manuals, digital tools to allow the public to find and share archival material, and see the archive as part of their daily lives. Milli works with individuals, families, organizations and communities toward building, nurturing and sustaining our collective memory and records in the form of accessible archives. Memory matters, and Milli is here to help.
-
-
-![](../images/milli brochure_our work.webp)
 
 
 ### What does Milli do?
@@ -35,6 +34,8 @@ Milli works with individuals, families, organizations and communities toward bui
 * Training and education in archival methods, from school to professional practice
 
 Milli also facilitates discussions around issues of diversity, archival standards, conservation, physical and digital access, pedagogy, privacy and the development of inclusive description standards. The open access digital platform that Milli is building will allow the public to find, connect, describe and share archival material and stories. It is a unique space not just in India, but anywhere in the world.
+
+![](../images/milli brochure_our work.webp)
 
 ### Why does this matter?
 Archives emerge from our collective stories, and they give rise to future intertwined stories. They should be seen as a vibrant core of the physical and digital commons, a place that citizens instinctively reach out to online, or over a weekend visit with their families. But that just doesn’t happen in India. Archives are very difficult to work with due to lack of visibility, unnecessarily strict regulation, and a great deal of apathy from all sides. We need wider awareness, education and engagement, and a strong push toward structured archives along international standards. Archives need to be examined not just by the fleeting research scholar, but also every member of the public, and also students in secondary or tertiary education, which is perhaps an archives’ biggest untapped potential in India. We want the community to see – and make – connections between their own lives and the disparate archival records flung across repositories. Archives enable diverse stories. This aim guides the work of Milli, the purpose, form and content of an archive, and what environments it could nourish in the future. Through our activities, we intend to foster an environment of archival thinking through education and practice, civic awareness, and broadly, a sense of empathy, seeing a little of us in the other.
@@ -61,17 +62,18 @@ Thank you for considering! Everything Milli does is for nurturing archives in th
 ### Who is heading Milli?
 Milli’s founding directors are Venkat Srinivasan (Head, Archives at NCBS), Maya Dodd (educator and professor at FLAME University), Jayaprabha Ravindran (Retired Assistant Director, National Archives of India). Director’s profiles are outlined at the end of this document.
 
-![](../images/milli brochure_network.webp)
 
 ### What is the Milli Member Network?
 The member network is a set of archival organizations and archivists who have come together to advise and shape free-to-public archival projects that will benefit all archives in India. Its collective efforts strengthen both individual archives and a network of archives. The network exchanges ideas and shares resources, and their membership supports the basic operations of Milli. All events and project outputs of Milli shall continue to be freely accessible to the public, keeping in line with its intent as a non-profit body that facilitates archival discussion and standards. As of June 2025, the network includes Shubha Chaudhuri (The Archives and Research Center for Ethnomusicology (ARCE), American Institute of Indian Studies), Vrunda Pathare (Godrej Archives) and the following archival organizations: Archive of IIT Madras, Archives at NCBS, Asia Art Archive in India, CEPT Archives, French Institute of Pondicherry, IIM Ahmedabad Archives, IIM Bangalore Library, India Foundation for the Arts Archive, Indian Institute for Human Settlements, Keystone Foundation, OP Jindal Global University, Kirloskar Group Archives, Museum of Art & Photography, NID Archives, Past Perfect, Roja Muthiah Research Library, QAMRA Archival Project at NLSIU, Wipro Archives. 
+
+![](../images/milli brochure_network.webp)
 
 
 ### Who has been part of Milli?
 Many people! Milli started as an informal tech group around 2017, and a broader archival collective in 2020. Prasoon, Janastu, Ojas Kadu and the Archives at NCBS have brainstormed over some ideas of the digital platform for Milli. The core group that has played a role in shaping archival discussions and the Milli Sessions, which started in 2020, include Aparna Vaidik, Bharat S, Deepika S, Faisal Rehman, Farah Yameen, Jaya Ravindran, Maya Dodd, Priyanka Seshadri, Ranjani Prasad, and Venkat Srinivasan.
 
 ### Does Milli also have volunteers?
-Yes! Volunteers for various Milli Sessions include Anjali JR; Aparna Vaidik; Arnika Ahldag; Athithya; Avarna Ojha; Avehi Menon; Bhanu Prakash; Bharat S; Deepika S; Devi Dang; Dharanee S; Dhatri S; Dibyadyuti Roy; Dinesh TB; Divij Joshi; Divina Ann Philipose; Faisal Rehman; Farah Yameen; Hari Sridhar; Indira Chowdhury; Ishita Shah; Joel Louzado; Kishor Satpathy; Maya Dodd; Megha Ramachandra; Micah Alex; Ojas Kadu; Padmini Ray Murray; Prasoon; Priyanka Seshadri; Radhika Hegde; Ranjani Prasad; Ravi K Boyapati; Samira A; Samyabrata Roy; Sangeeta D; Sanjna GY; Satakshi Sinha; Shafali Jain; Shalom Gauri; Sharanya Ghosh; Shreyasi; Shubha Chaudhuri; Shubhojeet Dey; Siddharth Ganesh; Siddhi Bhandari; Sindhu N; Spandana Bhowmik; Srijan Mandal; Tanishka Kachru; Vallabhi Jalan; Venkat Srinivasan; and Vrunda Pathare. As we think of future events, please do email us at hello@milli.link if you'd like to be part of the broader network.
+Yes! Volunteers for various Milli Sessions include Anjali JR; Aparna Vaidik; Arnika Ahldag; Athithya; Avarna Ojha; Avehi Menon; Bhanu Prakash; Bharat S; Deepika S; Devi Dang; Dharanee S; Dhatri S; Dibyadyuti Roy; Dinesh TB; Divij Joshi; Divina Ann Philipose; Faisal Rehman; Farah Yameen; Hari Sridhar; Indira Chowdhury; Ishita Shah; Jaya Ravindran; Joel Louzado; Kishor Satpathy; Maya Dodd; Megha Ramachandra; Micah Alex; Ojas Kadu; Padmini Ray Murray; Prasoon; Priyanka Seshadri; Radhika Hegde; Ranjani Prasad; Ravi K Boyapati; Saman Quraishi; Samira A; Samyabrata Roy; Sangeeta D; Sanjna GY; Satakshi Sinha; Shafali Jain; Shalom Gauri; Sharanya Ghosh; Shreyasi; Shubha Chaudhuri; Shubhojeet Dey; Siddharth Ganesh; Siddhi Bhandari; Sindhu N; Spandana Bhowmik; Srijan Mandal; Tanishka Kachru; Vallabhi Jalan; Venkat Srinivasan; and Vrunda Pathare. As we think of future events, please do email us at <a href="mailto:hello@milli.link">hello@milli.link</a> if you'd like to be part of the broader network.
 
 ### Can I be a part of Milli?
 Of course! You can volunteer, collaborate, work on a project with us, or all three! If you are part of an institution/community, organization, family, individual with an archive (or the potential of an archive) that likes the work we have done or have concerns about heritage material and archival records, do send us an email to take things forward: <a href="mailto:hello@milli.link">hello@milli.link</a>
