@@ -7,7 +7,7 @@ intro_content: >-
 
   <br><br>
 
-  Everything Milli does is for nurturing archives in the country. It is a non-profit foundation, and relies on public support to make its work possible. Please do consider supporting this movement, and help build, nurture and sustain our collective memory through accessible archives.
+  Everything Milli does is for nurturing archives in the country. Please do consider supporting this movement, and help build, nurture and sustain our collective memory through accessible archives.
  
   <br><br>
   <a href="https://milli.link/support/">milli.link/support</a>
