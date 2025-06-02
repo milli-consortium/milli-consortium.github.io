@@ -7,11 +7,11 @@ layout: page
 
 Thank you for considering supporting Milli's work! Everything Milli does is for nurturing archives in the country. It is a non-profit foundation, and relies on public support to make its work possible. Please do consider supporting this movement, and help build, nurture and sustain our collective memory through accessible archives.
 
-Please do consider donating to this movement, at any level: [**http://bit.ly/milli-nurture**](http://bit.ly/milli-nurture)
+Please do consider donating to this movement, at any level: [**[bit.ly/milli-support]**](http://bit.ly/milli-support))
 
-If you are unable to make a financial contribution, and can volunteer expertise, advice or time, we'd love to hear from you! Email us at hello@milli.link
+If you are unable to make a financial contribution, and can volunteer expertise, advice or time, we'd love to hear from you! Email us at <a href="mailto:hello@milli.link">hello@milli.link</a>
 
-The Milli Archives Foundation is a non-profit network of archives and archivists dedicated to building, nurturing and sustaining archives across India. It is a Section 8 non-profit company with 12A and 80G tax exemptions under the Income Tax Act of India. Contact us at hello@milli.link if you need additional details.
+The Milli Archives Foundation is a non-profit network of archives and archivists dedicated to building, nurturing and sustaining archives across India. It is a Section 8 non-profit company with 12A and 80G tax exemptions under the Income Tax Act of India. Contact us at <a href="mailto:hello@milli.link">hello@milli.link</a> if you need additional details.
 
 #### **Why Milli?**
 
