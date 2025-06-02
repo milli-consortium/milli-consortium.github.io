@@ -15,9 +15,9 @@ Cabin No 32, WS No 6, 102 Eden Park,
 
 Karnataka. India.
 
-<a href="mailto:hello@milli.link">hello@milli.link</a>
+📧 <a href="mailto:hello@milli.link">hello@milli.link</a>
 
-[https://milli.link](https://milli.link)
+🌐 [milli.link](https://milli.link)
 
 **Legal Status:**
 
