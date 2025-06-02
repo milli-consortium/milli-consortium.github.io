@@ -9,7 +9,7 @@ layout: page
 ![](../images/Milli Lecture and Mixer.webp)
 
 
-> Milli Archives Foundation is a collective of individuals and communities interested in the nurturing of archives (https://milli.link/about/)
+> [Milli Archives Foundation](https://milli.link/about/) is a non-profit network of archives and archivists dedicated to building, nurturing and sustaining archives across India. 
 
 ---
 ## 2025 Focus: How do you solve a problem like an archive?
@@ -20,35 +20,37 @@ layout: page
 
 ## Free Public Event!
 ### Friday, June 13, 2025
-#### Auditorium FP-10, CEPT Archives, Kasturbhai Lalbhai Campus, University Road, Navrangpura, Ahmedabad
+#### Auditorium FP-103, CEPT University, Kasturbhai Lalbhai Campus, University Road, Navrangpura, Ahmedabad
 
 ---
 
-* **3:00PM : Milli mixer!**
+* **3:00 PM : Milli mixer!**
   
 Calling the creative community in Ahmedabad for an inspiring evening of connection at the annual Milli Sessions, hosted this year by CEPT Archives. All are welcome to the Archives Mixer! Designers, architects, artists, come by and bring your friends to discuss the rich world of archives, exchange ideas, and spark new collaborations. Let’s mingle over shared stories, and a shared love for art and design. Depending on the gathering, we can explore how to develop archives out of various design, art and architecture history projects. We can’t wait to see you there!
 
 
 ---
 
-* **6:00 PM: Public Lecture - Walking in and (rarely) Out of the Archives Tridip Suhrud**
+* **6:00 PM: Public Lecture - Walking in and (rarely) Out of the Archives**
+  
+  **Tridip Suhrud**
 
 **Overview:**
 The lecture draws upon Tridip Suhrud’s experience of being in the archives as a scholar and as an archivist who has worked in three archives and created two digital repositories. The approach and the intent of a scholar are necessarily different from that of an archivist. The lecture would reflect upon the intertwining of these two distinct practices.
 
 **Bio:**
-Tridip Suhrud is a scholar, writer and translator who works on the intellectual and cultural history of modern Gujarat and the Gandhian intellectual tradition. As the director and chief editor of the Sabarmati Ashram Preservation and Memorial Trust (2012-2017), he was responsible for creating the world’s largest digital archive on Gandhi—the Gandhi Heritage Portal. His books include the critical edition of Hind Swaraj, Narayan Desai’s four-volume biography of Gandhi, My Life is My Message, and the four-volume epic Gujarati novel, Sarasvatichandra. His recent works include a critical edition of Gandhi’s autobiography My Experiments with Truth in two languages, Gujarati and English, and The Diary of Manu Gandhi (1943-44) and a compilation The Power of Non-Violent Resistance. He is working on an eight-volume compendium of testimonies of indigo cultivators of Champaran. He is professor and Provost of CEPT University, and Director of Lalbhai Dalpatbhai Institute of Indology, Ahmedabad. (Bio excerpted from: https://gandhi2020ucla.weebly.com/tridip-suhrud.html)
+Tridip Suhrud is a Professor and Provost of CEPT University, Ahmedabad. He is also a Director of Lalbhai Dalpatbhai Institute of Indology, Ahmedabad and serves as Chairman of the Governing Council of MICA. He is a renowned scholar in the field of political science and cultural history. His recent works include the critical editions of M K Gandhi’s Hind Swaraj and the Autobiography, a two-volume project on editing and translating the diary of Manu Gandhi (one part published), has translated into English the canonical Gujarati novel, Sarasvatichandra, and is currently working on a possible nine volume project, Thumb Printed (two volumes published) on the testimonies of indigo cultivators of Champaran.
 
 ---
 
 In addition to the above public events, the Milli Member Network will also be meeting in Ahmedabad for the following additional programs.
 
 * **June 12, 2025**
-Exploring through archive visits at Sarabhai Archives, Sabarmati Ashram, NID, CEPT Archives, and IIM Ahmedabad Archives.
+Exploring through five archive visits across Ahmedabad, spanning histories of movements, institutions, corporations, management, design and architecture.
 
 * **June 13-14, 2025**
 Working groups on developing a free self-assessment and benchmarking tool to measure and strengthen the quality of an archive
     
 ---
 
-
+![](../images/Milli Sessions 2025 Poster.webp)
