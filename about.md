@@ -45,13 +45,6 @@ In January 2023, Milli also launched “Archives, Ethics and the Law in India: A
 
 As of 2023, due to its wide reach and unique intent in nurturing archives, it is likely there is hardly any significant archival institution in India that is not aware of Milli. Interactions over the Milli Sessions and with participating institutions and individuals gave a clear need for setting up Milli Archives Foundation as a non-profit entity that can scale the ideas and bring about a systemic transformation in how we build and engage with archives in India.
 
-<!-- ### How will Milli fulfill its objectives?
-Milli is set up as a Section 8 company, with two kinds of activities.
-
-• FREE public good services like open source software tools, resource and best practices guidelines for archiving and conservation in India, standards for archives description, law and ethics guidebooks, curriculum and professional training guides. 
-
-• PAID services to build a community, through archival consultancies, memberships and training. This will be a nominal revenue component (< 15 percent of activity) in the first three years, and it will be spun off as a separate consultancy after three years that will help sustain the public service intent of the Milli Archives Collective. -->
-
 ### How can I help?
 Thank you for considering! Everything Milli does is for nurturing archives in the country. It is a non-profit foundation, and relies on public support to make its work possible. Please do consider supporting this movement, and help build, nurture and sustain our collective memory through accessible archives.
 
@@ -71,60 +64,11 @@ The member network is a set of archival organizations and archivists who have co
 Many people! Milli started as an informal tech group around 2017, and a broader archival collective in 2020. Prasoon, Janastu, Ojas Kadu and the Archives at NCBS have brainstormed over some ideas of the digital platform for Milli. The core group that has played a role in shaping archival discussions and the Milli Sessions, which started in 2020, include Aparna Vaidik, Bharat S, Deepika S, Faisal Rehman, Farah Yameen, Jaya Ravindran, Maya Dodd, Priyanka Seshadri, Ranjani Prasad, and Venkat Srinivasan.
 
 ### Does Milli also have volunteers?
-Yes! Volunteers for various Milli Sessions include Anjali JR; Aparna Vaidik; Arnika Ahldag; Athithya; Avarna Ojha; Avehi Menon; Bhanu Prakash; Bharat S; Deepika S; Devi Dang; Dharanee S; Dhatri S; Dibyadyuti Roy; Dinesh TB; Divij Joshi; Divina Ann Philipose; Faisal Rehman; Farah Yameen; Hari Sridhar; Indira Chowdhury; Ishita Shah; Jaya Ravindran; Joel Louzado; Kishor Satpathy; Maya Dodd; Megha Ramachandra; Micah Alex; Ojas Kadu; Padmini Ray Murray; Prasoon; Priyanka Seshadri; Radhika Hegde; Ranjani Prasad; Ravi K Boyapati; Saman Quraishi; Samira A; Samyabrata Roy; Sangeeta D; Sanjna GY; Satakshi Sinha; Shafali Jain; Shalom Gauri; Sharanya Ghosh; Shreyasi; Shubha Chaudhuri; Shubhojeet Dey; Siddharth Ganesh; Siddhi Bhandari; Sindhu N; Spandana Bhowmik; Srijan Mandal; Tanishka Kachru; Vallabhi Jalan; Venkat Srinivasan; and Vrunda Pathare. As we think of future events, please do email us at <a href="mailto:hello@milli.link">hello@milli.link</a> if you'd like to be part of the broader network.
+Yes! Volunteers for various Milli Sessions include Anjali JR; Aparna Vaidik; Arnika Ahldag; Athithya; Avarna Ojha; Avehi Menon; Bhanu Prakash; Bharat S; Deepika S; Devi Dang; Dharanee S; Dhatri S; Dibyadyuti Roy; Dinesh TB; Divij Joshi; Divina Ann Philipose; Faisal Rehman; Farah Yameen; Hari Sridhar; Indira Chowdhury; Ishita Shah; Jaya Ravindran; Joel Louzado; Kishor Satpathy; Maya Dodd; Megha Ramachandra; Micah Alex; Ojas Kadu; Padmini Ray Murray; Prasoon; Priyanka Seshadri; Radhika Hegde; Ranjani Prasad; Ravi K Boyapati; Saman Quraishi; Samira A; Samyabrata Roy; Sangeeta D; Sanjna GY; Satakshi Sinha; Shafali Jain; Shalom Gauri; Sharanya Ghosh; Shilpi Dey; Shilpi Goswami; Shreyasi; Shubha Chaudhuri; Shubhojeet Dey; Siddharth Ganesh; Siddhi Bhandari; Sindhu N; Spandana Bhowmik; Srijan Mandal; Tanishka Kachru; Vallabhi Jalan; Venkat Srinivasan; and Vrunda Pathare. As we think of future events, please do email us at <a href="mailto:hello@milli.link">hello@milli.link</a> if you'd like to be part of the broader network.
 
 ### Can I be a part of Milli?
 Of course! You can volunteer, collaborate, work on a project with us, or all three! If you are part of an institution/community, organization, family, individual with an archive (or the potential of an archive) that likes the work we have done or have concerns about heritage material and archival records, do send us an email to take things forward: <a href="mailto:hello@milli.link">hello@milli.link</a>
 
-
-<!-- ### What are some examples of Free-to-Public Deliverables?
-
-*    COLLECT 
-
-        ◦ Resource kit and guidelines for building archives with digital tools and assessment
-
-        ◦ Workflow to go from an idea of an archive idea to publicly accessible archive. 
-        
-        ◦ Best practices guidebook: Physical and digital conservation
-        
-        ◦ Retention Schedule guidelines for archival papers at institutions
-        
-        ◦ Archive appraisal mechanism to help engage individual families/communities
-        
-        ◦ Publicly visible credible archive network in India for professional service/mentoring
-        
-        ◦ Archival client training and guidance programme.
-
-*    RESEARCH  
-     
-        ◦ The Milli open access digital platform: to find, connect, describe and share archival material and stories. It is a unique space not just in India, but anywhere in the world.
-        
-        ◦ Legal and ethical guidebook for archives: Toward an ethical and legal standard for open access to archival material in India
-        
-        ◦ Developing a graded national standard to evaluate and assess archives
-        
-        ◦ Development of open archival description standard in India 
-        
-        ◦ Development of transparency metric to access archival material in India
-*    EDUCATE: 
-        
-        ◦ Curriculum for training new archivists
-        
-        ◦ 4 month project template to engage senior school and college students in using archives.
-        
-        ◦ Semester-long open access course (in collaboration with institutions) to initiate undergraduate and postgraduate students across disciplines in the form, content and place of archives in society.
-        
-        ◦ Open access two-week workshop for professionals course on archives
-        
-        ◦ A national archivist peer mentoring programme
-
-*    ENGAGE: 
-        
-        ◦ Annual  Milli Sessions in June between 2024 and 2026
-        
-        ◦ Develop template to organize mobile booths in cities to record/train oral history interviews from public
-        
-        ◦ Development of rotating exhibitions from partner institutions that can be openly used by schools and colleges across India. -->
 
 ### Where is this going?
 
