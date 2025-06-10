@@ -7,7 +7,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-description: Milli is a consortium of individuals and communities interested in the nurturing of archives. Archives enable diverse stories.
+description: The Milli Archives Foundation is a non-profit dedicated to building, nurturing and sustaining archives across India. We work with individuals, families, organizations and communities toward sustaining our collective memory and records in the form of accessible archives. 
 layout_style: grid
 palette: green
 header:
