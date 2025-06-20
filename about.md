@@ -57,7 +57,7 @@ Milli’s founding directors are Venkat Srinivasan (Head, Archives at NCBS), May
 ### What is the Milli Member Network?
 The member network is a set of archival organizations and archivists who have come together to advise and shape free-to-public archival projects that will benefit all archives in India. Its collective efforts strengthen both individual archives and a network of archives. The network exchanges ideas and shares resources, and their membership supports the basic operations of Milli. All events and project outputs of Milli shall continue to be freely accessible to the public, keeping in line with its intent as a non-profit body that facilitates archival discussion and standards. As of June 2025, the network includes Shubha Chaudhuri (The Archives and Research Center for Ethnomusicology (ARCE), American Institute of Indian Studies), Vrunda Pathare (Godrej Archives) and the following archival organizations: Archive of IIT Madras, Archives at NCBS, Asia Art Archive in India, CEPT Archives, French Institute of Pondicherry, IIM Ahmedabad Archives, IIM Bangalore Library, India Foundation for the Arts Archive, Indian Institute for Human Settlements, Keystone Foundation, OP Jindal Global University, Kirloskar Group Archives, Museum of Art & Photography, NID Archives, Past Perfect, Roja Muthiah Research Library, QAMRA Archival Project at NLSIU, Wipro Archives. 
 
-![](../images/milli brochure_network.webp)
+![](../images/milli brochure_network_June 25.webp)
 
 
 ### Who has been part of Milli?
