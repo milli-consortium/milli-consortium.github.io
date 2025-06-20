@@ -9,7 +9,7 @@ layout: page
 ## A crucible for archives, innovation & education -->
 
 
-[![](../images/milli brochure_header.webp)](../files/Brochure_May 2025_f-s.pdf)
+[![](../images/milli brochure_header.webp)](../files/Brochure_June 2025_web_low res.pdf)
 
 ### Who are we?
 The Milli Archives Foundation is a non-profit network of archives and archivists dedicated to building, nurturing and sustaining archives across India. Our registered office is in Bangalore, India. Scroll down for our organization details, address and tax exemption status. 
