@@ -19,9 +19,11 @@ Karnataka. India.
 
 🌐 [milli.link](https://milli.link)
 
-**Legal Status:**
+**Legal Status:** Milli Archives Foundation is a Section 8 non-profit company (CIN: U91010KA2023NPL172642), with 12A and 80G tax exemptions under the Income Tax Act of India. For certificates and more, see https://milli.link/legal
+**Terms and Conditions:** https://milli.link/terms
+**Privacy Policy:** https://milli.link/privacy
+**Cancelation and refunds:** https://milli.link/orders
 
-Milli Archives Foundation is a Section 8 non-profit company (CIN: U91010KA2023NPL172642), with 12A and 80G tax exemptions under the Income Tax Act of India.
 
 
 <!-- 
