@@ -7,10 +7,7 @@ layout: page
 
 Thank you for considering supporting Milli's work! Everything Milli does is for nurturing archives in the country. It is a non-profit foundation, and relies on public support to make its work possible. Please do consider supporting this movement, and help build, nurture and sustain our collective memory through accessible archives.
 
-**Milli Archival Tools and Education Goal:** [**Razorpay Donation Link - Milli Projects**](https://pages.razorpay.com/milli)
-
-**Milli - Archives Health Tool**, a free resource for archives, big and small, to assess and improve their quality: [**Razorpay Donation Link - Archives Health Tool**](https://pages.razorpay.com/milli-aht)
-
+[**Donation Link for Milli's Open Access Projects**](https://pages.razorpay.com/milli)
 
 If you are unable to make a financial contribution, and can volunteer expertise, advice or time, we'd love to hear from you! Email us at <a href="mailto:hello@milli.link">hello@milli.link</a>
 
@@ -18,7 +15,16 @@ The Milli Archives Foundation is a non-profit network of archives and archivists
 
 #### **Why Milli?**
 
-Archives occupy a critical place in society. India needs a forum for archival standards, preservation and conservation guidelines, open access teaching manuals, digital tools to allow the public to find and share archival material, for multiple archives to exchange knowledge, and for the public to see the archive as part of their daily lives. Milli works with individuals, families, organizations and communities toward building, nurturing and sustaining our collective memory and records in the form of accessible archives. Archives need the attention and care they deserve. Memory matters, and Milli is here to help.
+Archives occupy a critical place in society. But every day across India, priceless archives — letters, photographs, oral histories, and rare manuscripts — are being lost. Neglect, poor storage, climate damage, and lack of funding mean that once these materials vanish, they are gone forever. Our collective memory is at stake.
+
+What every archive and archiving project needs is a platform that can guide how to build, nurture and sustain this heritage. 
+
+That is exactly what the Milli Archives Foundation is set up to do. We are a non-profit foundation that helps individuals, families, organizations and communities sustain our collective memory and records in the form of accessible archives. We aim to build preservation and access guidelines, offer training in archival methods and standards, how-to manuals, and open access archiving tools. Archives in India badly need these resources. Through this, we hope we will all engage with our collective memory in the form of accessible archives.
+
+India needs a forum for archival standards, preservation and conservation guidelines, open access teaching manuals, digital tools to allow the public to find and share archival material, for multiple archives to exchange knowledge, and for the public to see the archive as part of their daily lives. Milli works with individuals, families, organizations and communities toward building, nurturing and sustaining our collective memory and records in the form of accessible archives. Archives need the attention and care they deserve. 
+
+Memory matters, and Milli is here to help. Your support will go a long way in realizing, building and protecting a diversity of archives in India. 
+
 
 #### **What does Milli do?**
 
@@ -31,7 +37,7 @@ Milli works with individuals, families, organizations and communities toward bui
 
 Milli also facilitates discussions around issues of diversity, archival standards, conservation, physical and digital access, pedagogy, privacy and the development of inclusive description standards. The open access digital platform that Milli is building will allow the public to find, connect, describe and share archival material and stories. It is a unique space not just in India, but anywhere in the world.
 
-#### **Archives Health Tool**
+#### **On-going open access project: Archives Health Tool**
 
 How do you measure and improve the quality of an archive? Milli is developing a free Archives Health Tool for archives across India to self-evaluate along a set of parameters, and work with a benchmarking model that allows them to strengthen their work on an area of their choice. To shape and advise this work, Milli is drawing on the input of over 15 member archives from across India (see https://milli.link/about for more details on the Milli Member Network). 
 
@@ -53,4 +59,9 @@ Timeline: Archives Health Tool beta version, slated for June 2026
 (b) Guidelines for understanding archives, ethics and law in India
 (c) Best practices and standards for digital and physical preservation of our heritage
 
-Your support will go a long way in realizing and building free, open tools for storing and sharing our collective memory through accessible archives. 
+#### **A little more about who runs Milli and what we have done?**
+We conceptualized and maintain the country’s first and free open guidebook on archives, ethics and law: https://milli.link/ethics-law/. Over the years, our free-to-public Milli Sessions covering every aspect of archiving (https://milli.link/milli-sessions/), have had thousands of participants from across India and other countries, and 40+ partnering institutions.
+
+The Milli Archives Foundation has three serving co-directors: Venkat Srinivasan (Head, Archives at NCBS), Maya Dodd (educator and professor at FLAME University), and Jaya Ravindran (Retired Assistant Director, National Archives of India). Its open access projects are shaped and advised by the Milli Member Network, a set of 20+ archival organizations and archivists who have come together to advise and shape free-to-public archival projects that will benefit all archives in India. 
+
+[**Donation Link for Milli's Open Access Projects**](https://pages.razorpay.com/milli)
