@@ -7,7 +7,7 @@ layout: page
 
 Our collective memory is at stake. Everything Milli does is for nurturing archives in the country. We are a non-profit foundation that helps individuals, families, organizations and communities sustain our collective memory and records in the form of accessible archives. We build preservation and access guidelines, how-to manuals, and open access archiving tools, and offer training in archival methods and standards. Archives in India badly need these resources. 
 
-Please do consider supporting this movement: https://pages.razorpay.com/milli. This work simply cannot happen without your support. Your donation today makes an immediate difference. Every contribution to Milli goes directly to excellence in archiving in India. 
+Please do consider supporting this movement: https://pages.razorpay.com/milli. This work simply cannot happen without your support. Your donation today makes an immediate difference. Every contribution to Milli goes directly toward bringing excellence in archiving in India. 
 
 ### [**Donation Link for Milli's Open Access Projects**](https://pages.razorpay.com/milli)
 
