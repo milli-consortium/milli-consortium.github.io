@@ -1,13 +1,15 @@
 ---
-title: Support
+title: Help build and protect a diversity of archives. 
 subtitle: 
 img_path: 
 layout: page
 ---
 
-Thank you for considering supporting Milli's work! Everything Milli does is for nurturing archives in the country. It is a non-profit foundation, and relies on public support to make its work possible. Please do consider supporting this movement, and help build, nurture and sustain our collective memory through accessible archives.
+Our collective memory is at stake. Everything Milli does is for nurturing archives in the country. We are a non-profit foundation that helps individuals, families, organizations and communities sustain our collective memory and records in the form of accessible archives. We build preservation and access guidelines, how-to manuals, and open access archiving tools, and offer training in archival methods and standards. Archives in India badly need these resources. 
 
-[**Donation Link for Milli's Open Access Projects**](https://pages.razorpay.com/milli)
+Please do consider supporting this movement: https://pages.razorpay.com/milli. This work simply cannot happen without your support. Your donation today makes an immediate difference. Every contribution to Milli goes directly to excellence in archiving in India. 
+
+### [**Donation Link for Milli's Open Access Projects**](https://pages.razorpay.com/milli)
 
 If you are unable to make a financial contribution, and can volunteer expertise, advice or time, we'd love to hear from you! Email us at <a href="mailto:hello@milli.link">hello@milli.link</a>
 
@@ -15,7 +17,7 @@ The Milli Archives Foundation is a non-profit network of archives and archivists
 
 #### **Why Milli?**
 
-Archives occupy a critical place in society. But every day across India, priceless archives — letters, photographs, oral histories, and rare manuscripts — are being lost. Neglect, poor storage, climate damage, and lack of funding mean that once these materials vanish, they are gone forever. Our collective memory is at stake.
+Archives occupy a critical place in society. But every day across India, priceless archives — letters, photographs, oral histories, and rare manuscripts — are being lost. Neglect, poor storage, climate damage, and lack of funding mean that once these materials vanish, they are gone forever. 
 
 What every archive and archiving project needs is a platform that can guide how to build, nurture and sustain this heritage. 
 
@@ -58,4 +60,4 @@ We conceptualized and maintain the country’s first and free open guidebook on 
 
 The Milli Archives Foundation has three serving co-directors: Venkat Srinivasan (Head, Archives at NCBS), Maya Dodd (educator and professor at FLAME University), and Jaya Ravindran (Retired Assistant Director, National Archives of India). Its open access projects are shaped and advised by the Milli Member Network, a set of 20+ archival organizations and archivists who have come together to advise and shape free-to-public archival projects that will benefit all archives in India. 
 
-[**Donation Link for Milli's Open Access Projects**](https://pages.razorpay.com/milli)
+### [**Donation Link for Milli's Open Access Projects**](https://pages.razorpay.com/milli)
