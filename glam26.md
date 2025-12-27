@@ -6,7 +6,7 @@ layout: page
 ---
 
 A free online discussion on contemporary galleries, libraries, archives and museums.
-A collaboration between Medical Museion, Denmark (https://www.museion.ku.dk/en/forside/), and the Milli Archives Foundation, India (https://milli.link/about).
+A collaboration between Medical Museion, Denmark ([**https://www.museion.ku.dk/en/forside/**](https://www.museion.ku.dk/en/forside/)), and the Milli Archives Foundation, India (https://milli.link/about).
 
 #### TIMING
 
