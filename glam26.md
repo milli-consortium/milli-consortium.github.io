@@ -36,13 +36,3 @@ So, we wanted to experiment with a simple provocation: in 2026, what is a galler
 
 #### ABOUT THE ORGANIZERS
 Milli Archives Foundation (https://milli.link/about) is a non-profit network of archives and archivists dedicated to building, nurturing and sustaining archives in India. Medical Museion (https://www.museion.ku.dk/en/about-us/) is a museum and research unit at the University of Copenhagen, Denmark, dedicated to the history of health and disease in a cultural perspective.
-
- 
-
-
-
-Any dispute arising out of use of our website and/or purchase with us and/or any engagement with us is subject to the laws of India .
-
-We, shall be under no liability whatsoever in respect of any loss or damage arising directly or indirectly out of the decline of authorization for any Transaction, on Account of the Cardholder having exceeded the preset limit mutually agreed by us with our acquiring bank from time to time. 
-
-
