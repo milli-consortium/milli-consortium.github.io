@@ -1,25 +1,45 @@
 ---
-title: Terms & Conditions
+title: SAME, BUT DIFFERENT? GLAM IN 2026
 subtitle: 
 img_path: 
 layout: page
 ---
 
-Last updated on Jun 29, 2025
+A free online discussion on contemporary galleries, libraries, archives and museums.
+A collaboration between Medical Museion, Denmark (https://www.museion.ku.dk/en/forside/), and the Milli Archives Foundation, India (https://milli.link/about).
 
-For the purpose of these Terms and Conditions, The term "we", "us", "our" used anywhere on this page shall mean Milli Archives Foundation, whose registered office is Cabin No 32, WS No 6, 102 Eden Park, 20 Vittal Mallya Road Bengaluru KARNATAKA 560001. "you", “your”, "user", “visitor” shall mean any natural or legal person who is visiting our website and/or agreed to donate to the Milli Archives Foundation.
+#### TIMING
 
-Your use of the website and/or purchase from us are governed by following Terms and Conditions:
+Thu, Jan 29, 2026
+9 am UTC = 9 am UK = 10 am Netherlands = 2:30 pm India = 5 pm Western Australia
+Find your timezone here: https://www.timeanddate.com/worldclock/fixedtime.html?msg=Same%2C+but+different%21+GLAM+in+2026&iso=20260129T09&p1=1440&ah=3
 
-The content of the pages of this website is subject to change without notice.
+Online event. Free, and open to the public
+Online registration link here: https://us06web.zoom.us/meeting/register/-ulUdWFGTty58gpC12XwYA
 
-Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
+#### SPEAKERS & SCHEDULE
 
-Your use of any information or materials on our website and/or product pages is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through our website and/or product pages meet your specific requirements.
+Thu, Jan 29, 2026, 9 am UTC to 10:15 am UTC
+Deirdre Carasso, Director, Bibliotheek Utrecht: https://www.culturalemergency.org/programs/deirdre-carasso
+Jeebesh Bagchi, Co-Founder, Raqs Media Collective, Delhi: https://khojstudios.org/person/jeebesh-bagchi/
 
-Our website contains material which is owned by us or licensed to us or available under a creative commons license. This material includes, but are not limited to, the design, layout, look, appearance and graphics. Reproduction is prohibited other than in accordance with license agreements for specific content, which forms part of these terms and conditions.
+Break: 10.15 am UTC to 10.30 am UTC
 
-From time to time our website may also include links to other websites. These links are provided for your convenience to provide further information.
+Thu, Jan 29, 2026, 10:30 am UTC to 11:45 am UTC
+Arnika Ahldag, incoming Director, Museum of Art & Photography, Bangalore: https://map-india.org/team-member/arnika-ahldag/
+Geoff Browell, former Head of Archives at King's College London and chair, AIM25: https://www.kcl.ac.uk/people/geoff-browell
+
+#### OVERVIEW
+Galleries, libraries, archives and museums are often bunched together as the GLAM sector, a grouping of cultural heritage institutions that gather, preserve and provide access to our collective knowledge and heritage across disciplines. They have separate roles, but increasingly, they all do a little bit of the other. Museums, of course, have long had public-facing exhibition galleries. Now, archives and libraries do too. Libraries have special archival collections. Museums and galleries have libraries. And galleries (in many parts of India at least) are often called museums, since the public often associates with museums only through their public-facing gallery avatar.
+
+So, we wanted to experiment with a simple provocation: in 2026, what is a gallery, library, archive, or museum like in different parts of the world? Through four international presentations, plus plenty of time allocated to discussion, we would like to better understand what these entities are today. What are their core characteristics and what of them appears still to align with some sense of their ‘definitions’? And what are intriguing ways in which they are being extended and reimagined? How can they be strengthened without diluting what is essential about an archive, a museum, or a library as of now?
+
+#### ABOUT THE ORGANIZERS
+Milli Archives Foundation (https://milli.link/about) is a non-profit network of archives and archivists dedicated to building, nurturing and sustaining archives in India. Medical Museion (https://www.museion.ku.dk/en/about-us/) is a museum and research unit at the University of Copenhagen, Denmark, dedicated to the history of health and disease in a cultural perspective.
+
+ 
+
+
 
 Any dispute arising out of use of our website and/or purchase with us and/or any engagement with us is subject to the laws of India .
 
