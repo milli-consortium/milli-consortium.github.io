@@ -6,21 +6,21 @@ layout: page
 ---
 
 A free online discussion on contemporary galleries, libraries, archives and museums.
-A collaboration between Medical Museion, Denmark ([**https://www.museion.ku.dk/en/forside/**](https://www.museion.ku.dk/en/forside/)), and the Milli Archives Foundation, India (https://milli.link/about).
+A collaboration between Medical Museion, Denmark ([**https://www.museion.ku.dk/en/forside/**](https://www.museion.ku.dk/en/forside/)), and the Milli Archives Foundation, India ([**https://milli.link/about**](https://milli.link/about)).
 
 #### TIMING
 
 Thu, Jan 29, 2026
 9 am UTC = 9 am UK = 10 am Netherlands = 2:30 pm India = 5 pm Western Australia
-Find your timezone here: https://www.timeanddate.com/worldclock/fixedtime.html?msg=Same%2C+but+different%21+GLAM+in+2026&iso=20260129T09&p1=1440&ah=3
+Find your timezone here: [**https://www.timeanddate.com/worldclock/fixedtime.html?msg=Same%2C+but+different%21+GLAM+in+2026&iso=20260129T09&p1=1440&ah=3**](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Same%2C+but+different%21+GLAM+in+2026&iso=20260129T09&p1=1440&ah=3)
 
 Online event. Free, and open to the public
-Online registration link here: https://us06web.zoom.us/meeting/register/-ulUdWFGTty58gpC12XwYA
+Online registration link here: [**https://us06web.zoom.us/meeting/register/-ulUdWFGTty58gpC12XwYA**](https://us06web.zoom.us/meeting/register/-ulUdWFGTty58gpC12XwYA)
 
 #### SPEAKERS & SCHEDULE
 
 Thu, Jan 29, 2026, 9 am UTC to 10:15 am UTC
-Deirdre Carasso, Director, Bibliotheek Utrecht: https://www.culturalemergency.org/programs/deirdre-carasso
+Deirdre Carasso, Director, Bibliotheek Utrecht: [https://www.culturalemergency.org/programs/deirdre-carasso](https://www.culturalemergency.org/programs/deirdre-carasso)
 Jeebesh Bagchi, Co-Founder, Raqs Media Collective, Delhi: https://khojstudios.org/person/jeebesh-bagchi/
 
 Break: 10.15 am UTC to 10.30 am UTC
