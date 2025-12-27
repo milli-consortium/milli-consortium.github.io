@@ -22,6 +22,7 @@ Online registration link here: [**https://us06web.zoom.us/meeting/register/-ulUd
 #### SPEAKERS & SCHEDULE
 
 Thu, Jan 29, 2026, 9 am UTC to 10:15 am UTC
+
 Deirdre Carasso, Director, Bibliotheek Utrecht: [https://www.culturalemergency.org/programs/deirdre-carasso](https://www.culturalemergency.org/programs/deirdre-carasso)
 
 Jeebesh Bagchi, Co-Founder, Raqs Media Collective, Delhi: [https://khojstudios.org/person/jeebesh-bagchi/](https://khojstudios.org/person/jeebesh-bagchi/)
@@ -29,6 +30,7 @@ Jeebesh Bagchi, Co-Founder, Raqs Media Collective, Delhi: [https://khojstudios.o
 Break: 10.15 am UTC to 10.30 am UTC
 
 Thu, Jan 29, 2026, 10:30 am UTC to 11:45 am UTC
+
 Arnika Ahldag, incoming Director, Museum of Art & Photography, Bangalore: [https://map-india.org/team-member/arnika-ahldag/](https://map-india.org/team-member/arnika-ahldag/)
 
 Geoff Browell, former Head of Archives at King's College London and chair, AIM25: [https://www.kcl.ac.uk/people/geoff-browell](https://www.kcl.ac.uk/people/geoff-browell)
