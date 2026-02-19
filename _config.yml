@@ -24,6 +24,12 @@ header:
     - label: Ethics - Law
       url: /ethics-law/
       type: link
+    - label: cat.milli
+      url: https://cat.milli.link
+      type: link
+    - label: anno.milli
+      url: https://anno.milli.link
+      type: link
     - label: Support
       url: /support/
       type: link
