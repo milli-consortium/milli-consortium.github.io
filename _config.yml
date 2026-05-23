@@ -58,10 +58,13 @@ header:
     - label: Contact
       url: /contact/
       type: link
-    - label: Join Us
-      url: /join-us/
-      type: link  
-    
+  #  - label: Join Us
+  #    url: /join-us/
+  #    type: link  
+    - label: AHT
+      url: /aht/
+      type: link 
+      
 footer:
   content: '&copy; All rights reserved.'
   links:
