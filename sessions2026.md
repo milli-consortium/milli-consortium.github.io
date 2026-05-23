@@ -42,3 +42,5 @@ South Asia Open Archives [https://southasiaoa.org/](https://southasiaoa.org/), a
 
 Organized by the Milli Archives Foundation, [https://milli.link/about](https://milli.link/about), a non-profit network of archives and archivists dedicated to building, nurturing and sustaining archives in India. 
 
+#### OTHER EVENTS:
+In addition to the above public event, the Milli Member Network will also be meeting online on June 10, 2026 for developing the next stage of the Archives Health Tool, benchmarking to measure and strengthen the quality of an archive. For more details, visit [https://milli.link/aht](https://milli.link/aht).
