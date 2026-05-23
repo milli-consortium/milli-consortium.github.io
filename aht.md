@@ -21,7 +21,7 @@ How do you measure and improve the quality of an archive? Milli Archives Foundat
 
 **Contact email for collaboration and queries**: [hello@milli.link](hello@milli.link)
 
-Download the full report here: 
+[Download the full report here](https://github.com/milli-consortium/milli-consortium.github.io/blob/master/MAF_AHT_Report_v3.pdf) 
 
 ## Intent and Motivation
 
