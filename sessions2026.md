@@ -1,13 +1,18 @@
 ---
-title: Milli Sessions 2026 | International Archives Day | https://milli.link/sessions2026/
-subtitle: Networks of archives, histories of networks 
+title: Milli Sessions 2026 | International Archives Day
+subtitle:  
 img_path: 
 layout: page
 ---
 
+#### Networks of archives, histories of networks
+
+https://milli.link/sessions2026/
+
 #### TIMING
 
 Tue, June 9, 2026. 5:30 PM Indian Standard Time (IST)
+
 Find your timezone here: 
 [**https://www.timeanddate.com/worldclock/fixedtime.html?msg=Milli+Sessions+2026&iso=20260609T12&p1=1440&ah=1&am=30**](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Milli+Sessions+2026&iso=20260609T12&p1=1440&ah=1&am=30)
 
