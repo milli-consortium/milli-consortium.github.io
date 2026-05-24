@@ -7,7 +7,7 @@ layout: page
 
 #### Networks of archives, histories of networks
 
-https://milli.link/sessions2026/
+[https://milli.link/sessions2026/](https://milli.link/sessions2026/)
 
 #### TIMING
 
