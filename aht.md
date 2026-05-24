@@ -9,7 +9,7 @@ layout: page
 
 ## Overview
 
-How do you measure and improve the quality of an archive? Milli Archives Foundation (MAF) is developing an open-access Archives Health Tool (AHT) for archives across India to self-evaluate along a set of parameters, and work with a benchmarking model that allows them to strengthen their work on an area of their choice. To shape and advise this work, Milli is drawing on the input of 20 member archives from across India.
+How do you measure and improve the quality of an archive? Milli Archives Foundation is delighted to launch the first phase of an open-access Archives Health Tool (AHT) for archives across India to self-evaluate along a set of parameters, and work with a benchmarking model that allows them to strengthen their work on an area of their choice. 
 
 **Survey of Archives in India (Part 1 of 2)**: [https://bit.ly/milli-aht-survey1](https://bit.ly/milli-aht-survey1)
 
@@ -22,6 +22,10 @@ How do you measure and improve the quality of an archive? Milli Archives Foundat
 **Contact email for collaboration and queries**: [hello@milli.link](hello@milli.link)
 
 [Download the full report here](https://github.com/milli-consortium/milli-consortium.github.io/blob/master/MAF_AHT_Report_v3.pdf) 
+
+## Milli Member Network
+
+Milli's open access projects are guided by its member network. To shape the Archive Health Tool, Milli is drawing on the input of 20 member archives from across India (see [https://milli.link/about](https://milli.link/about) for a list of members). Members offer advice, advocacy and accountability toward the projects, and their collective input shapes open-access tools. The first module of the Archive Health Tool has been reviewed by the Milli Member Network. Milli received 16 out of a total of 20 possible distinct review responses from members by May 20, 2026. All 16 member archives formally approved making the survey questions (component 1 of the Archive Health Tool) public. This member approval allows Milli to now make the project component public. Read below and the linked report above for more details on the project's history.
 
 ## Intent and Motivation
 
