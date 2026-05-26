@@ -11,6 +11,8 @@ layout: page
 
 How do you measure and improve the quality of an archive? Milli Archives Foundation is delighted to launch the first phase of an open-access Archives Health Tool (AHT) for archives across India to self-evaluate along a set of parameters, and work with a benchmarking model that allows them to strengthen their work on an area of their choice. 
 
+The first phase is the survey of archives in India, both from the perspective of users and builders/custodians of archives. The surveys are anonymous and long. They have been developed with extensive feedback from the member network, and from test users. If you'd like us to be in touch with you regarding your survey results, do ensure you include an email contact in the survey and let us know at hello@milli.link! We have no other way of knowing or contacting you! Your submitted survey data will be stored on a Milli cloud server account where the survey forms are currently housed.
+
 **Survey of Archives in India (Part 1 of 2)**: [https://bit.ly/milli-aht-survey1](https://bit.ly/milli-aht-survey1)
 
 **Survey of Archives in India (Part 2 of 2)**: [https://bit.ly/milli-aht-survey2](https://bit.ly/milli-aht-survey2)
