@@ -23,6 +23,8 @@ Free and open to the public. Register for online event:
 
 Join the Milli Archives Foundation on International Archives Day to explore networks of archives around the world, and the histories of these networks. 
 
+![](../images/milli sessions 2026 poster.png)
+
 In 1946, soon after the Second World War and the formation of the United Nations, Solon J. Buck, the archivist of the United States, delivered a now-famous speech to the Society of American Archivists. He urged for a "consideration of the unity of archives". In what he called The Archivist's 'One World', he envisioned a future where archives always speak to each other. Together, they were the "archives of mankind, the official record of human experience in organized living": [https://americanarchivist.org/doi/pdf/10.17723/aarc.10.1.g1vw8301t1150450](https://americanarchivist.org/doi/pdf/10.17723/aarc.10.1.g1vw8301t1150450). 
 
 Today, many networks of archives respond to this imagination. In Milli Sessions 2026, we invite you to join a panel that reflects on various networks of archives. We will be looking at the motivations and histories of these functioning networks, what makes them work, what challenges do they encounter, and how do we get the public to engage with this imagination of collective recorded memory.
