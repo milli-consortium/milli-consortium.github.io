@@ -9,6 +9,10 @@ layout: page
 
 [https://milli.link/sessions2026/](https://milli.link/sessions2026/)
 
+#### RECORDING 
+
+Video recording of Milli Sessions 2026, held on Jun 9, 2026: [https://youtu.be/C8efZ7WyHWU](https://youtu.be/C8efZ7WyHWU)
+
 #### TIMING
 
 Tue, June 9, 2026. 5:30 PM Indian Standard Time (IST)
