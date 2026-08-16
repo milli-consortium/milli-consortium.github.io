@@ -1,4 +1,10 @@
-Caring for Knowledge: Reimagining Community Archives in India
+---
+title: Caring for Knowledge
+subtitle: Reimagining Community Archives in India
+img_path: 
+layout: page
+---
+
 A gathering on building and reclaiming community knowledge collections
 
 
