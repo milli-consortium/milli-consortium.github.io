@@ -69,7 +69,7 @@ footer:
   content: '&copy; All rights reserved.'
   links:
     - label: Made with ❤️
-      url: 'https://ojaskadu.com/'
+      url: 'https://daku.dev'
       type: link
       new_window: true
   has_social: true
@@ -93,6 +93,11 @@ footer:
       url: 'https://www.facebook.com/Milli-Archives-Consortium-114463243629922/'
       type: icon
       icon_class: fa-facebook
+      new_window: true
+    - label: LinkedIn
+      url: 'https://www.linkedin.com/company/milli-archives-foundation'
+      type: icon
+      icon_class: fa-linkedin
       new_window: true
   has_subscribe: true
   subscribe_title: Subscribe for new updates
