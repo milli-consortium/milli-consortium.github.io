@@ -9,7 +9,6 @@ A gathering on building and reclaiming community knowledge collections
 
 Concept Note
 
-IPLC / Community Contexts
 Across India, Indigenous and Adivasi communities form one of the largest and most diverse knowledge traditions in the world. According to the 2011 Census, over 104 million people, about 8.6% of the population, belong to Scheduled Tribes. These communities hold rich histories, languages, ecological knowledge, songs, stories, and ways of relating to land and life and their living knowledge systems are closely tied to identity and memory.
 
 Today, there is growing interest in this knowledge from governments, researchers, institutions and individuals. Yet, communities have often been treated as subjects of research or recipients of services, rather than as knowledge holders and decision-makers. Many forms of community knowledge have been recorded and circulated without full awareness, consent, or participation. In many cases, communities are not even aware that records, photographs, or data about them exist in archives and collections. While these can sometimes support present-day efforts, they can also misrepresent communities or expose sensitive knowledge. In recent years, community groups, collectives, and practitioners across India have started asking important questions:
