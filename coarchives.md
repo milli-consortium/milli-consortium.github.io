@@ -5,10 +5,9 @@ img_path:
 layout: page
 ---
 
-The gathering on building and reclaiming community knowledge collections
+A gathering on building and reclaiming community knowledge collections
 
-
-Concept Note
+Concept Notes
 
 IPLC / Community Contexts
 Across India, Indigenous and Adivasi communities form one of the largest and most diverse knowledge traditions in the world. According to the 2011 Census, over 104 million people, about 8.6% of the population, belong to Scheduled Tribes. These communities hold rich histories, languages, ecological knowledge, songs, stories, and ways of relating to land and life and their living knowledge systems are closely tied to identity and memory. 
