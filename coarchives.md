@@ -5,7 +5,7 @@ img_path:
 layout: page
 ---
 
-A gathering on building and reclaiming community knowledge collections
+The gathering on building and reclaiming community knowledge collections
 
 
 Concept Note
