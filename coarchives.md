@@ -37,13 +37,18 @@ Linggi, T. (Ed./Auth.). (2024). The Idu Mishmi Code of Research Ethics (IMCRE) (
 
 
 
-**Schedule**
+###### Schedule
 
 **Date:** 30th and 31st July 2026
+
 **Time:** 9:30 am to 6 pm 
+
 **Venue:** Patanjali Seminar Hall, The University of Trans-Disciplinary Health Sciences and Technology (TDU), Bangalore 
+
 **Format:** In person, small group conversations, story-sharing, collaborative exercises, and open dialogue
+
 **Language:** Multilingual (English, Kannada, Malayalam, Telugu and Tamil)
+
 **Organisers:** Antara Advisory, Archives at NCBS, Keystone Foundation, Milli Archives Foundation and The University of Trans-Disciplinary Health Sciences and Technology (TDU)
 
 **Grant support:** Rashesh and Vidya Shah Family Foundation to the Milli Archives Foundation, and from the Global South Alliance to the Keystone Foundation.
