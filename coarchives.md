@@ -6,6 +6,8 @@ layout: page
 
 #### *A gathering on building and reclaiming community knowledge collections*
 
+![Community Archives workshop entrance](/images/CoArchives_Milli_Site_Pic1.png)
+
 ##### Concept Note
 
 [Indigenous People and Local Communities (IPLCs)](https://www.informea.org/en/knowledge/glossary/indigenous-peoples-and-local-communities) is used to refer to people who self-identify as indigenous and belong to a specific local community. Specifically people who have long standing social and cultural relationships with their lands, forests, waters, and ecosystems. Though the use and application of the term “indigenous” by the Government of India is still contested, the term has been increasingly equated to the socially accepted term ‘Adivasi’. In the case of India, the administrative umbrella of “scheduled tribe”  has been used in understanding the state policy towards Adivasis. According to the 2011 Census, over 104 million people, about 8.6% of the population, belong to Scheduled Tribes. However, the status, recognition, and representation of Nomadic and Denotified Tribes (DNTs), along with other unrecognised groups that fall within the broader understanding of IPLCs, remain largely uncharted territory in India, both in policy and in practice. 
