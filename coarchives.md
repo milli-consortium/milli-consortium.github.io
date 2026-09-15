@@ -6,9 +6,7 @@ layout: page
 
 #### *A gathering on building and reclaiming community knowledge collections*
 
-<div align="center">
 ![Community Archives workshop entrance](/images/CoArchives_Milli_Site_Pic1.png)
-</div>
 
 ##### Concept Note
 
@@ -37,9 +35,7 @@ Dhir, R. K. (2015). Indigenous peoples in the world of work in Asia and the Paci
 
 Linggi, T. (Ed./Auth.). (2024). The Idu Mishmi Code of Research Ethics (IMCRE) (2nd ed., 2025). Idu Mishmi Cultural and Literary Society (IMCLS). 
 
-<div align="center">
 ![Community Archives workshop schedule](/images/CoArchives_Milli_Site_Pic2.png)
-</div>
 
 ##### Schedule
 
