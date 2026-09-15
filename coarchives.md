@@ -56,9 +56,64 @@ Linggi, T. (Ed./Auth.). (2024). The Idu Mishmi Code of Research Ethics (IMCRE) (
 **Participants:** Indigenous people and Local Communities (IPLCs), community collectives, archivists, cultural practitioners, researchers, and organisations from Andhra Pradesh, Karnataka, Kerala, Tamil Nadu and Telangana.
 
 
+##### Workshop Summary
+
+The workshop was an invitation to come together and reflect on these questions collectively. It brought together Indigenous people and local communities (IPLCs), knowledge practitioners, archivists, researchers, and organisations working with knowledge, memory, and cultural heritage.
+
+In this workshop 57 Participants *representing* 24 communities from 5 south Indian states participated. 
+
+The gathering was designed as a participatory and multilingual space, where different experiences and perspectives can be shared openly. Rather than seeking one single approach, the workshop was focused on listening, dialogue, and learning across communities and institutions.
+
+Together, we explored:
+
+*	What might a community archive look like from within the community?
+
+*	How can archives support community needs, identities, and futures?
+
+*	What kinds of knowledge can be shared, and what should remain protected?
+
+* How do we ensure consent, respect, and collective decision-making?
+
+* What roles can communities, institutions, and practitioners play in working together?
+
+**IPLCs groups-24**
+
+Alu Kurumba, Backward Classes, Badaga, Chenchu, Cholanaickan, Coastal Communities, Dalit, Hakki Pikki, Irula, Iruliga, Kadar, Kattunaickan, Kurabar, Kurchiya, Lambani, Malamalasar, Malamuthan, Malasar, Malayan, Muthuvan, Paniya, Saura, Soliga, Toda
+
+**Participants-57**
+
+A. Chiranjeevi, Ajith Kuttan, Akhila George, Aravind Ashthars, Arun, Aswathy G V, Banala Kranthi Kumar, Bhuvan, Biddika Suhasini, Daniel Samraj, Dharvaih, Durga, Durga Moorthy, G. Anjinamma, Geetha V K, Jadeswamy M, Jeyanthi R, JR Mani, Karalan, Kavya K, Kumuda Sushil, Laksmi M, Madan, Mallikarjuna, Mandli Amluya, Mandli shivayya, Manjula, Manu Chowdhuri. C, Murukkan, N. Narasamma, Narayanaswamy, Neelkant Nagappa Kurubar, P. Chandran, Pallavi, Prabhu, Rajeshwari, Rajiu, Ramesh Krishnan, Rebba Prakash, S Palayam, Saravanan, Savara Thota Minna Rao, Seebu, Shalini A, Shrikanth, Sumithra K, Suresh P, Sushilappa, Syamjith PK, T.B Dinesh, Tiju C Thomas, V. Venkatesh, Vasamalli K, Vinod Chellan, Vishnu, Yadukrishna K R and Yugesh
+
+**Organisers-7**
+
+Anjali J R, Aparna U, Faisal R, Ranjani P, Samira A, Venkat S, Vinay K
+
+We would also like to thank the staff and faculty at TDU for their support.
+
+**Volunteers-12**
+
+Abishai J, Dhatri S, Dhanya S R, Deepika S, Janaky S, Noorunnisa, Ojas K, Parvathy V, Sanjana G Y, Shruthi N J, Suganya S, Vidya, Ravi K B.
 
 
+##### Why this gathering matters
 
+This workshop was part of a longer journey. It was the beginning of a process to build stronger relationships between communities and archives, share experiences across regions, and develop practical, community-informed approaches to working with knowledge. The learnings from this gathering will contribute to a multilingual guide on community archiving practices in India, shaped by the voices and experiences of those who participate.
+
+If you are interested in collaborating with this initiative, please write to us at [coarchives26@gmail.com](mailto:coarchives26@gmail.com).
+
+If you would like to request a correction or removal of any content published here, please write to us at [coarchives26@gmail.com](mailto:coarchives26@gmail.com)
+
+
+##### Photographs
+
+![Symbol of memory exhibit](/images/CoArchives_Milli_Site_Pic3.png)
+
+Symbol of Memory exhibits during the workshop
+Symbol of Memory, an item that individuals or community believe symbolizes memory keeping and sharing for them or their community
+
+![CoArchives Group Photo](/images/CoArchives_Milli_Site_Pic4.png)
+
+Group Photo In front of PatanjalI Block where 2 days of workshop was organised
 
 
 
