@@ -82,17 +82,17 @@ Alu Kurumba, Backward Classes, Badaga, Chenchu, Cholanaickan, Coastal Communitie
 
 **Participants-57**
 
-A. Chiranjeevi, Ajith Kuttan, Akhila George, Aravind Ashthars, Arun, Aswathy G V, Banala Kranthi Kumar, Bhuvan, Biddika Suhasini, Daniel Samraj, Dharvaih, Durga, Durga Moorthy, G. Anjinamma, Geetha V K, Jadeswamy M, Jeyanthi R, JR Mani, Karalan, Kavya K, Kumuda Sushil, Laksmi M, Madan, Mallikarjuna, Mandli Amluya, Mandli shivayya, Manjula, Manu Chowdhuri. C, Murukkan, N. Narasamma, Narayanaswamy, Neelkant Nagappa Kurubar, P. Chandran, Pallavi, Prabhu, Rajeshwari, Rajiu, Ramesh Krishnan, Rebba Prakash, S Palayam, Saravanan, Savara Thota Minna Rao, Seebu, Shalini A, Shrikanth, Sumithra K, Suresh P, Sushilappa, Syamjith PK, T.B Dinesh, Tiju C Thomas, V. Venkatesh, Vasamalli K, Vinod Chellan, Vishnu, Yadukrishna K R and Yugesh
+A. Chiranjeevi, Ajith Kuttan, Akhila George, Aravind Ashthars, Arun, Aswathy G V, Banala Kranthi Kumar, Bhuvan, Biddika Suhasini, Daniel Samraj, Dharvaih, Durga, Durga Moorthy, G. Anjinamma, Geetha V K, Jadeswamy M, Jeyanthi R, JR Mani, Karalan, Kavya K, Kumuda Sushil, Lakshmi M, Madan, Mallikarjuna, Mandli Amulya, Mandli shivayya, Manjula, Manu Chowdhuri. C, Murukkan, N. Narasamma, Narayanaswamy, Neelkant Nagappa Kurubar, P. Chandran, Pallavi, Prabhu, Rajeshwari, Rajiu, Ramesh Krishnan, Rebba Prakash, S Palayam, Saravanan, Savara Thota Minna Rao, Seebu, Shalini A, Shrikanth, Sumithra K, Suresh P, Sushilappa, Syamjith PK, T.B Dinesh, Tiju C Thomas, V. Venkatesh, Vasamalli K, Vinod Chellan, Vishnu, Yadukrishna K R and Yugesh
 
 **Organisers-7**
 
-Anjali J R, Aparna U, Faisal R, Ranjani P, Samira A, Venkat S, Vinay K
+Anjali J R, Aparna U, Faisal R, Ranjani P, Samira A, Venkat S and Vinay K
 
 We would also like to thank the staff and faculty at TDU for their support.
 
 **Volunteers-12**
 
-Abishai J, Dhatri S, Dhanya S R, Deepika S, Janaky S, Noorunnisa, Ojas K, Parvathy V, Sanjana G Y, Shruthi N J, Suganya S, Vidya, Ravi K B.
+Abishai J, Dhatri S, Dhanya S R, Deepika S, Janaky S, Noorunnisa, Ojas K, Parvathy V, Sanjana G Y, Shruthi N J, Suganya S, Vidya and Ravi K B.
 
 
 ##### Why this gathering matters
