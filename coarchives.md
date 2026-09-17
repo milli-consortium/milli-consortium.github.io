@@ -29,11 +29,13 @@ Bijoy, C. R., & Nongbri, T. (2013). Country technical note on Indigenous Peoples
 
 Dhir, R. K. (2015). Indigenous peoples in the world of work in Asia and the Pacific: A status report. International Labour Organization. 
 
-[https://onlinelibrary.wiley.com/doi/abs/10.1111/jwip.12266](https://onlinelibrary.wiley.com/doi/abs/10.1111/jwip.12266)
-
-[https://india.mongabay.com/2026/07/indigenous-communities-missing-in-indias-report-on-access-and-benefit-sharing-commentary/](https://india.mongabay.com/2026/07/indigenous-communities-missing-in-indias-report-on-access-and-benefit-sharing-commentary/)
-
 Linggi, T. (Ed./Auth.). (2024). The Idu Mishmi Code of Research Ethics (IMCRE) (2nd ed., 2025). Idu Mishmi Cultural and Literary Society (IMCLS). 
+
+Salar, N., & Murthy, S. (2023). The exploited yet legally underappreciated apparel domain of indigenous communities: Tracing WIPO's efforts and ongoing challenges. The Journal of World Intellectual Property, 26, 312–327. https://doi.org/10.1111/jwip.12266 
+
+Shankar, P. (2026, July 6). Indigenous communities missing in India’s report on Access and benefit sharing [commentary]. Mongabay India. https://india.mongabay.com/2026/07/indigenous-communities-missing-in-indias-report-on-access-and-benefit-sharing-commentary/
+
+
 
 ![Community Archives workshop schedule](/images/CoArchives_Milli_Site_Pic2.png)
 
