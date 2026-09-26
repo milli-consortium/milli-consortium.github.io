@@ -108,15 +108,20 @@ If you would like to request a correction or removal of any content published he
 
 ##### Photographs
 
-![Symbol of memory exhibit](/images/CoArchives_Milli_Site_Pic3.png)
+![Symbol of memory exhibit](/images/TKimg/1.jpg)
 
-Symbol of Memory exhibits during the workshop
-Symbol of Memory, an item that individuals or community believe symbolizes memory keeping and sharing for them or their community
+*Symbol of Memory, an item that individuals or community believe symbolizes memory keeping and sharing for them or their community*
 
-![CoArchives Group Photo](/images/CoArchives_Milli_Site_Pic4.png)
 
-Group Photo In front of PatanjalI Block where 2 days of workshop was organised
+![CoArchives Group Photo](/images/TKimg/2.jpg)
 
+*Group Photo In front of Patanjali Block where 2 days of workshop was organised*
+
+
+Test
+Test
+
+Test
 
 
 
