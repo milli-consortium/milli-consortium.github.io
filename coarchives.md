@@ -80,7 +80,7 @@ Together, we explored:
 
 **IPLCs groups-24**
 
-Alu Kurumba, Backward Classes, Badaga, Chenchu, Cholanaickan, Coastal Communities, Dalit, Hakki Pikki, Irula, Iruliga, Kadar, Kattunaickan, Kurabar, Kurchiya, Lambani, Malamalasar, Malamuthan, Malasar, Malayan, Muthuvan, Paniya, Saura, Soliga, Toda
+Alu Kurumba, Backward Classes, Badaga, Chenchu, Cholanaickan, Coastal Communities, Dalit, Hakki Pikki, Irula, Iruliga, Kadar, Kattunaickan, Kurabar, Kurchiya, Lambani, Malamalasar, Malamuthan, Malasar, Malayan, Muthuvan, Paniya, Saura, Soliga and Toda
 
 **Participants-57**
 
