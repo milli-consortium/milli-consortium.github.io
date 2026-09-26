@@ -110,7 +110,8 @@ If you would like to request a correction or removal of any content published he
 
 ![Symbol of memory exhibit](/images/TKimg/1.jpg)
 
-*Symbol of Memory, an item that individuals or community believe symbolizes memory keeping and sharing for them or their community*
+*Symbol of Memory, an item that individuals or community believe symbolizes memory keeping and sharing for them or their community.*
+
 
 
 ![CoArchives Group Photo](/images/TKimg/2.jpg)
@@ -118,13 +119,135 @@ If you would like to request a correction or removal of any content published he
 *Group Photo In front of Patanjali Block where 2 days of workshop was organised*
 
 
-Test
-Test
 
-Test
+![Registration desk](/images/TKimg/3.jpg)
+
+*Registration desk at the entrance of the Patanjali Block where the two days of the workshop was organised*
 
 
 
+![Registration desk 2](/images/TKimg/4.jpg)
+
+*Anjali and Deepika and Dhanya welcoming participants at the registration Desk*
+
+
+
+![Memory desk 2](/images/TKimg/5.jpg)
+
+*Sanjana collecting ‘Symbol of Memory’ objects post registration*
+
+
+
+![Telugu desk 1](/images/TKimg/6.jpg)
+
+*Abishai translating in a Telugu language group*
+
+
+
+![Malayalam desk 1](/images/TKimg/7.jpg)
+
+*Parvathy taking notes in Malayalam language group*
+
+
+
+![Anjali at podium](/images/TKimg/8.jpg)
+
+*A participant in Telugu language group capturing Anjali’s presentation*
+
+
+
+![Kannada desk - babysitting](/images/TKimg/9.jpg)
+
+*Sanjana babysitting the youngest participant in the workshop*
+
+
+
+
+![Faisal - Keystone](/images/TKimg/10.jpg)
+
+*Faisal from [Keystone Foundation](https://keystone-foundation.org/) facilitating a conversation on Mapping Rights and Responsibilities*
+
+
+
+
+![Anjali - Podium - IPLC and Archives](/images/TKimg/11.jpg)
+
+*Anjali sharing a presentation on Introduction to Archives and its relationship with Indigenous People and Local Communities (IPLCs)*
+
+
+
+
+![Tamil desk](/images/TKimg/12.jpg)
+
+*Tamil language group in a discussion*
+
+
+
+
+![Venkat - Milli - IP](/images/TKimg/13.jpg)
+
+*Venkat from [Milli Archives Foundation](https://milli.link/) sharing his presentation on Intellectual Property*
+
+
+
+![Kannada desk - Samira - Facilitation](/images/TKimg/14.jpg)
+
+*Kannada language group during a conversation on Reimagining Archives for and with IPLCs facilitated by  Samira from [The University of Trans-Disciplinary Health Sciences and Technology (TDU)](https://www.tdu.edu.in/) facilitating*
+
+
+
+![Anjali - Archives at NCBS - Facilitation](/images/TKimg/15.jpg)
+
+*Anjali from [Archives at NCBS](https://archives.ncbs.res.in/) co- facilitating a session with Vinay on An Introduction to FAIR AND CARE principles*
+
+
+
+![IPLC memory keeping terms](/images/TKimg/16.jpg)
+
+*IPLCs terminology for memory keeping*
+
+
+
+![Dhanya - Telugu desk](/images/TKimg/17.jpg)
+
+*Dhanya audio recording a session in Telugu language group*
+
+
+
+![Tamil desk 2](/images/TKimg/18.jpg)
+
+*Tamil Language group in a discussion*
+
+
+
+![Dhanya - Telugu desk 2](/images/TKimg/19.jpg)
+
+*Dhanya translating in a Telugu language group*
+
+
+
+![Malayalam desk 2](/images/TKimg/20.jpg)
+
+*Malayalam language group in a session*
+
+
+
+![Workshop activity](/images/TKimg/21.jpg)
+
+*A fun post lunch activity led by Samira to shake off the afternoon drowsiness*
+
+
+
+![Ranjani - Keystone - Tamil desk](/images/TKimg/22.jpg)
+
+*Ranjani from [Keystone Foundation](https://keystone-foundation.org/) translating in a Tamil language group*
+
+
+
+
+![Aparna - Antara Advisory - Telugu desk](/images/TKimg/23.jpg)
+
+*Aparna from [Antara Advisory](https://www.antara-advisory.co/) translating in a Telugu language group*
 
 
 
