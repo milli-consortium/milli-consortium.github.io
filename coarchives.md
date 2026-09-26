@@ -6,7 +6,7 @@ layout: page
 
 #### *A gathering on building and reclaiming community knowledge collections*
 
-![Community Archives workshop entrance](/images/CoArchives_Milli_Site_Pic1.png)
+![CoArchives Poster](/images/TKimg/0a.jpg)
 
 ##### Concept Note
 
@@ -37,7 +37,7 @@ Shankar, P. (2026, July 6). Indigenous communities missing in India’s report o
 
 
 
-![Community Archives workshop schedule](/images/CoArchives_Milli_Site_Pic2.png)
+![Community Archives workshop schedule](/images/TKimg/0.jpg)
 
 ##### Schedule
 
