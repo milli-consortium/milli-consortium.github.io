@@ -6,7 +6,18 @@ layout: page
 
 #### *சமூக அறிவுத் தொகுப்புகளை உருவாக்குதல் மற்றும் மீட்டெடுத்தல் குறித்த ஒரு ஒன்றுகூடல்*
 
-![CoArchives Poster](/images/TKimg/0a.jpg)
+[Please click here to see this page in English](../coarchives)
+
+[ಈ ಪುಟವನ್ನು ಕನ್ನಡದಲ್ಲಿ ನೋಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ.](../coarchives-kan)
+
+[ഈ പേജ് മലയാളത്തിൽ കാണാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക.](../coarchives-mal)
+
+[ఈ పేజీని తెలుగులో చూడటానికి ఇక్కడ క్లిక్ చేయండి.](../coarchives-tel) 
+
+
+
+
+![CoArchives Poster](/images/Poster-Tamil.png) 
 
 #### கருத்துரை 
 
