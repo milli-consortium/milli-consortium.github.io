@@ -108,7 +108,7 @@ We would also like to thank the staff and faculty at TDU for their support.
 Abishai J, Dhatri S, Dhanya S R, Deepika S, Janaky S, Noorunnisa, Ojas K, Parvathy V, Sanjana G Y, Shruthi N J, Suganya S, Vidya and Ravi K B.
 
 
-##### Why this gathering matters
+##### Why this gathering matters?
 
 This workshop was part of a longer journey. It was the beginning of a process to build stronger relationships between communities and archives, share experiences across regions, and develop practical, community-informed approaches to working with knowledge. The learnings from this gathering will contribute to a multilingual guide on community archiving practices in India, shaped by the voices and experiences of those who participate.
 
