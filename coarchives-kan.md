@@ -6,7 +6,19 @@ layout: page
 
 #### *ಸಮುದಾಯದ ಜ್ಞಾನ ಸಂಗ್ರಹಗಳನ್ನು ನಿರ್ಮಿಸುವ ಮತ್ತು ಮರಳಿ ಪಡೆಯುವ ಕುರಿತು ಒಂದು ಸಮಾಗಮ*
 
-![CoArchives Poster](/images/TKimg/0a.jpg) 
+[Please click here to see this page in English](../coarchives)
+
+[ഈ പേജ് മലയാളത്തിൽ കാണാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക.](../coarchives-mal)
+
+[இந்தப் பக்கத்தைத் தமிழில் காண இங்கே சொடுக்கவும்.](../coarchives-tam)
+
+[ఈ పేజీని తెలుగులో చూడటానికి ఇక్కడ క్లిక్ చేయండి.](../coarchives-tel) 
+
+
+
+
+
+![CoArchives Poster](/images/Poster-Kannada.png) 
 
 #### ಪರಿಕಲ್ಪನಾ ಟಿಪ್ಪಣಿ
 
