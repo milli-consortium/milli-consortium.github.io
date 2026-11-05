@@ -1,0 +1,54 @@
+menu:
+- title: Home
+  url: /
+  type: leaf
+- title: About
+  url: /about/
+  type: leaf
+- title: Milli Sessions
+  url: /#/  
+  type: parent
+  menu:
+  - title: 2026
+    url: /sessions2026/
+    type: leaf
+  - title: 2025
+    url: /sessions2025/
+    type: leaf
+  - title: 2024
+    url: /sessions2024/
+    type: leaf
+  - title: 2023
+    url: /sessions2023/
+    type: leaf 
+  - title: 2022
+    url: /iaw2022/
+    type: leaf 
+  - title: 2021
+    url: /iaw2021/
+    type: leaf
+  - title: 2020
+    url: /iaw2020/
+    type: leaf           
+- title: Projects
+  url: /#/  
+  type: parent
+  menu:
+  - title: Caring for Knowledge
+    url: /coarchives/
+    type: leaf   
+  - title: Archives Health Tool
+    url: /aht/
+    type: leaf
+  - title: anno.milli
+    url: https://anno.milli.link
+    type: leaf
+  - title: cat.milli
+    url: https://cat.milli.link
+    type: leaf
+  - title: Ethics - Law
+    url: /ethics-law/
+    type: leaf    
+- title: Contact
+  url: /contact/
+  type: leaf

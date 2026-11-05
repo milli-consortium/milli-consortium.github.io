@@ -1,0 +1,31 @@
+
+{% assign menu = site.data.menu.menu %}
+<div class="menu">
+{% for menu-item in menu %}
+    
+    {% if menu-item.type == "leaf" %}
+    <div class="menu-item">
+        <a href="{{ menu-item.url }}"> {{ menu-item.title }} </a>
+    </div>    
+    {% endif %}
+
+    {% if menu-item.type == "parent" %}
+        {% assign submenu = menu-item.menu %}
+        <div class="submenu">
+            <div class="menu-item">
+                <a> {{ menu-item.title }} </a>
+            </div>
+             <div class="submenu-content">
+            {% for submenu-item in submenu %}
+                {% if submenu-item.type == "leaf" %}
+                <div class="menu-item">
+                    <a href="{{ submenu-item.url }}"> {{ submenu-item.title }} </a>
+                </div>    
+                {% endif %}                
+            {% endfor %}            
+            </div>
+        </div>
+    {% endif %}
+
+{% endfor %}
+</div>

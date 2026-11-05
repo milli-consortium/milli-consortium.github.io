@@ -13,66 +13,7 @@ palette: green
 header:
   title: Milli Archives Discussion
   logo_img: images/logo.webp
-  has_nav: true
-  nav_links:
-    - label: Home
-      url: /
-      type: link
-    - label: About
-      url: /about/
-      type: link
-    - label: Projects
-      url: /#/
-      type: parent
-      sub_nav_links:
-        - label: Ethics - Law
-          url: /ethics-law/
-          type: link
-        - label: cat.milli
-          url: https://cat.milli.link
-          type: link
-        - label: anno.milli
-          url: https://anno.milli.link
-          type: link
-        - label: Caring for Knowledge
-          url: /coarchives/
-          type: link
-    - label: Support
-      url: /support/
-      type: link
-          
-    # - label: IAW2023
-    #   url: /iaw2023/
-    #   type: link
-    - label: Milli Sessions
-      type: link
-      url: /milli-sessions/
-      sub_nav_links:
-      - label: IAW2020
-        url: /iaw2020/
-        type: link
-      - label: IAW2021
-        url: /iaw2021/
-        type: link
-        status: inactive  
-      - label: IAW2022
-        url: /iaw2022/
-        type: link
-      - label: Sessions 2023
-        url: /sessions2023/
-        type: link  
-     
-         
-    - label: Contact
-      url: /contact/
-      type: link
-  #  - label: Join Us
-  #    url: /join-us/
-  #    type: link  
-    - label: AHT
-      url: /aht/
-      type: link 
-      
+        
 footer:
   content: '&copy; All rights reserved.'
   links:
