@@ -1,5 +1,5 @@
-----
-title: Caring for Knowledge: Evolution of Community Guidelines
+---
+title: Caring for Knowledge - Evolution of Community Guidelines
 imag_path
 layout: page
 ---
