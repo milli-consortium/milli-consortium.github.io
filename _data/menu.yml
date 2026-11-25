@@ -38,7 +38,7 @@ menu:
     url: /coarchives/
     type: leaf
   - title: Communities Gathering
-    url: /coarchives-webinars/
+    url: /coarchives/coarchives-webinars/
     type: leaf
   - title: Archives Health Tool
     url: /aht/
