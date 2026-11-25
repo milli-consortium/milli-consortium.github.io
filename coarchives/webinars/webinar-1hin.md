@@ -5,15 +5,15 @@ layout: page
 
 #### ज्ञान की देखभाल: वेबिनार श्रृंखला
 
-[Please click here to view this page in English](milli.link/coarchive/projects/caring for knowledge/webinars/webinar-1)
+[Please click here to view this page in English](/coarchives/webinars/webinar-1)
 
-[ಈ ಪುಟವನ್ನು ಕನ್ನಡದಲ್ಲಿ ನೋಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ.](milli.link/coarchive/projects/caring for knowledge/webinars/webinar-1kan)
+[ಈ ಪುಟವನ್ನು ಕನ್ನಡದಲ್ಲಿ ನೋಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ.](/coarchives/webinars/webinar-1kan)
 
-[ഈ പേജ് മലയാളത്തിൽ കാണാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക.](milli.link/coarchive/projects/caring for knowledge/webinars/webinar-1mal)
+[ഈ പേജ് മലയാളത്തിൽ കാണാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക.](/coarchives/webinars/webinar-1mal)
 
-[இந்தப் பக்கத்தைத் தமிழில் காண இங்கே சொடுக்கவும்.](milli.link/coarchive/projects/caring for knowledge/webinars/webinar-1tam)
+[இந்தப் பக்கத்தைத் தமிழில் காண இங்கே சொடுக்கவும்.](/coarchives/webinars/webinar-1tam)
 
-[ఈ పేజీని తెలుగులో చూడటానికి ఇక్కడ క్లిక్ చేయండి.](milli.link/coarchive/projects/caring for knowledge/webinars/webinar-1tel)
+[ఈ పేజీని తెలుగులో చూడటానికి ఇక్కడ క్లిక్ చేయండి.](/coarchives/webinars/webinar-1tel)
 
 
 
