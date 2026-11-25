@@ -6,13 +6,13 @@ layout: page
 
 #### *A gathering on building and reclaiming community knowledge collections*
 
-[ಈ ಪುಟವನ್ನು ಕನ್ನಡದಲ್ಲಿ ನೋಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ.](../coarchives-kan)
+[ಈ ಪುಟವನ್ನು ಕನ್ನಡದಲ್ಲಿ ನೋಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ.](../coarchives/coarchives-kan)
 
-[ഈ പേജ് മലയാളത്തിൽ കാണാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക.](../coarchives-mal)
+[ഈ പേജ് മലയാളത്തിൽ കാണാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക.](../coarchives/coarchives-mal)
 
-[இந்தப் பக்கத்தைத் தமிழில் காண இங்கே சொடுக்கவும்.](../coarchives-tam)
+[இந்தப் பக்கத்தைத் தமிழில் காண இங்கே சொடுக்கவும்.](../coarchives/coarchives-tam)
 
-[ఈ పేజీని తెలుగులో చూడటానికి ఇక్కడ క్లిక్ చేయండి.](../coarchives-tel) 
+[ఈ పేజీని తెలుగులో చూడటానికి ఇక్కడ క్లిక్ చేయండి.](../coarchives/coarchives-tel) 
 
 
 

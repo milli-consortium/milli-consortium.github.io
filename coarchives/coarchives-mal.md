@@ -6,13 +6,13 @@ layout: page
 
 #### *സമുദായ വിജ്ഞാന ശേഖരണങ്ങൾ നിർമ്മിക്കുന്നതിനും വീണ്ടെടുക്കുന്നതിനുമുള്ള ഒരു ഒത്തുചേരൽ*
 
-[Please click here to see this page in English](../coarchives)
+[Please click here to see this page in English](/coarchives)
 
-[ಈ ಪುಟವನ್ನು ಕನ್ನಡದಲ್ಲಿ ನೋಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ.](../coarchives-kan)
+[ಈ ಪುಟವನ್ನು ಕನ್ನಡದಲ್ಲಿ ನೋಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ.](/coarchives/coarchives-kan)
 
-[இந்தப் பக்கத்தைத் தமிழில் காண இங்கே சொடுக்கவும்.](../coarchives-tam)
+[இந்தப் பக்கத்தைத் தமிழில் காண இங்கே சொடுக்கவும்.](/coarchives/coarchives-tam)
 
-[ఈ పేజీని తెలుగులో చూడటానికి ఇక్కడ క్లిక్ చేయండి.](../coarchives-tel) 
+[ఈ పేజీని తెలుగులో చూడటానికి ఇక్కడ క్లిక్ చేయండి.](/coarchives/coarchives-tel) 
 
 
 

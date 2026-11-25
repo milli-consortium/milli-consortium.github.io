@@ -35,16 +35,10 @@ menu:
   type: parent
   menu:
   - title: Caring for Knowledge
-    type: branch   
-    children:
-  - title: Communities Gathering
     url: /coarchives/
     type: leaf
-  - title: Webinars
-    type: branch
-    Children: 
-  - title: Webinar 1
-    url: /coarchives/webinars/webinar-1
+  - title: Communities Gathering
+    url: /coarchives-webinars/
     type: leaf
   - title: Archives Health Tool
     url: /aht/

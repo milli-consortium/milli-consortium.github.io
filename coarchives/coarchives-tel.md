@@ -6,13 +6,13 @@ layout: page
 
 #### *సముదాయ జ్ఞాన సేకరణలను నిర్మించడం మరియు పునరుద్ధరించడంపై ఒక సమావేశం*
 
-[Please click here to see this page in English](../coarchives)
+[Please click here to see this page in English](/coarchives)
 
-[ಈ ಪುಟವನ್ನು ಕನ್ನಡದಲ್ಲಿ ನೋಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ.](../coarchives-kan)
+[ಈ ಪುಟವನ್ನು ಕನ್ನಡದಲ್ಲಿ ನೋಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ.](/coarchives/coarchives-kan)
 
-[ഈ പേജ് മലയാളത്തിൽ കാണാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക.](../coarchives-mal)
+[ഈ പേജ് മലയാളത്തിൽ കാണാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക.](/coarchives/coarchives-mal)
 
-[இந்தப் பக்கத்தைத் தமிழில் காண இங்கே சொடுக்கவும்.](../coarchives-tam)
+[இந்தப் பக்கத்தைத் தமிழில் காண இங்கே சொடுக்கவும்.](/coarchives/coarchives-tam)
 
 
 

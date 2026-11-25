@@ -6,13 +6,13 @@ layout: page
 
 #### *சமூக அறிவுத் தொகுப்புகளை உருவாக்குதல் மற்றும் மீட்டெடுத்தல் குறித்த ஒரு ஒன்றுகூடல்*
 
-[Please click here to see this page in English](../coarchives)
+[Please click here to see this page in English](/coarchives)
 
-[ಈ ಪುಟವನ್ನು ಕನ್ನಡದಲ್ಲಿ ನೋಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ.](../coarchives-kan)
+[ಈ ಪುಟವನ್ನು ಕನ್ನಡದಲ್ಲಿ ನೋಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ.](/coarchives/coarchives-kan)
 
-[ഈ പേജ് മലയാളത്തിൽ കാണാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക.](../coarchives-mal)
+[ഈ പേജ് മലയാളത്തിൽ കാണാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക.](/coarchives/coarchives-mal)
 
-[ఈ పేజీని తెలుగులో చూడటానికి ఇక్కడ క్లిక్ చేయండి.](../coarchives-tel) 
+[ఈ పేజీని తెలుగులో చూడటానికి ఇక్కడ క్లిక్ చేయండి.](/coarchives/coarchives-tel) 
 
 
 

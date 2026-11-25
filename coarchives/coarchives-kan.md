@@ -6,13 +6,13 @@ layout: page
 
 #### *ಸಮುದಾಯದ ಜ್ಞಾನ ಸಂಗ್ರಹಗಳನ್ನು ನಿರ್ಮಿಸುವ ಮತ್ತು ಮರಳಿ ಪಡೆಯುವ ಕುರಿತು ಒಂದು ಸಮಾಗಮ*
 
-[Please click here to see this page in English](../coarchives)
+[Please click here to see this page in English](/coarchives)
 
-[ഈ പേജ് മലയാളത്തിൽ കാണാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക.](../coarchives-mal)
+[ഈ പേജ് മലയാളത്തിൽ കാണാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക.](/coarchives/coarchives-mal)
 
-[இந்தப் பக்கத்தைத் தமிழில் காண இங்கே சொடுக்கவும்.](../coarchives-tam)
+[இந்தப் பக்கத்தைத் தமிழில் காண இங்கே சொடுக்கவும்.](/coarchives/coarchives-tam)
 
-[ఈ పేజీని తెలుగులో చూడటానికి ఇక్కడ క్లిక్ చేయండి.](../coarchives-tel) 
+[ఈ పేజీని తెలుగులో చూడటానికి ఇక్కడ క్లిక్ చేయండి.](/coarchives/coarchives-tel) 
 
 
 
